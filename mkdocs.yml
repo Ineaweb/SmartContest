@@ -2,5 +2,6 @@
 site_description: Guide utilisateur SmartContest
 site_name: SmartContest
 site_url: "http://www.ineaweb.net/smartcontest/"
-pages: 
+pages:
+ - Index: index.md 
  - 'Créer une compétition': create-competition.md
