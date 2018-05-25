@@ -1,4 +1,5 @@
 ﻿# Construire une compétition
+
 ## Introduction
 Le designer de compétition permet de construire son concours à sa guise.
 Il permet de définir le processus du concours avec les poules, les phases de qualification et d'éliminatoire.
