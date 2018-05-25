@@ -1,3 +1,7 @@
 site_name: SmartContest
+site_url: http://www.ineaweb.net/smartcontest/
+site_description: Guide utilisateur SmartContest.
+site_author: Ineaweb
+
 pages:
-- 'Créer une compétition': 'create-competition.md'
+	- Créer une compétition: create-competition.md
