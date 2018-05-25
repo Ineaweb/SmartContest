@@ -1,18 +1,16 @@
-# Construire une compétition
+ï»¿# Construire une compÃ©tition
 ## Introduction
-Le designer de compétition permet de construire son concours à sa guise.
-Il permet de définir le processus du concours avec les poules, les phases de qualification et d'éliminatoire.
-Il permet de définir les règles de chaque phase.
+Le designer de compÃ©tition permet de construire son concours Ã  sa guise.
+Il permet de dÃ©finir le processus du concours avec les poules, les phases de qualification et d'Ã©liminatoire.
+Il permet de dÃ©finir les rÃ¨gles de chaque phase.
 
-## Comment y accéder
-1. Créer ou ouvrir une compétition.
-2. Cliquer sur **Détails de la compétition**  
- ![detail de la compétition](img/design-competition/1.jpg)
+## Comment y accÃ©der
+1. CrÃ©er ou ouvrir une compÃ©tition.
+2. Cliquer sur **DÃ©tails de la compÃ©tition**  
+ ![detail de la compÃ©tition](img/design-competition/1.jpg)
 
-## Démarrer un nouveau modèle
-Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enregistrement des équipes.
-Pour cela, il suffit de glisser déposer l'icon ![detail de la compétition](img/design-competition/2.jpg) sur la zone centrale.  
+## DÃ©marrer un nouveau modÃ¨le
+Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enregistrement des Ã©quipes.
+Pour cela, il suffit de glisser dÃ©poser l'icon ![detail de la compÃ©tition](img/design-competition/2.jpg) sur la zone centrale.  
 Renseigner le nom de cette phase dans la popin puis cliquer sur **Enregistrer**.  
-![detail de la compétition](img/design-competition/3.jpg)  
-
-
+![detail de la compÃ©tition](img/design-competition/3.jpg)
