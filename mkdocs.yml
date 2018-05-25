@@ -5,3 +5,4 @@ site_url: "http://www.ineaweb.net/smartcontest/"
 pages:
  - Index: index.md 
  - 'Créer une compétition': create-competition.md
+ - 'Construire une compétition': design-competition.md 
