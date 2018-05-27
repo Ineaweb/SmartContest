@@ -12,14 +12,14 @@ Il permet de définir les règles de chaque phase.
 2. Cliquer sur **Détails de la compétition**
  ![detail de la compétition](img/design-competition/1.jpg)
 
-## Démarrer un nouveau modèle
+## Démarrage rapide
 
 Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enregistrement des équipes.
 
 ### Ajout d'une phase d'enregistrement
 
 1. Réalisez un glisser-déposer de l'icon ![icon phase d'enregistrement](img/design-competition/2.jpg) sur la zone centrale.
-2. Renseigner le nom de cette phase dans la popin puis cliquer sur **Enregistrer**
+2. Renseigner le nom de cette phase dans la popin puis cliquer sur **Enregistrer**.
  ![phase d'enregistrement](img/design-competition/3.jpg)
 
 ### Ajout d'une phase de qualification ou d'éliminatoire
@@ -72,3 +72,19 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
  ![resultat du test de la compétition](img/design-competition/23.jpg)  
   Vous pouvez aussi vérifier les résultat de la simulation sur chacune des phases en cliquant sur l'icon ![icon resultat du test sur la phase](img/design-competition/24.jpg). Une popin s'ouvre et affiche les informations sur le **Nombre d'équipes**, le **Nombre de terrains** et le **Nombre de matchs** nécessaire.  
   ![resultat du test de la compétition](img/design-competition/25.jpg)
+
+## Les Phases
+
+Il existe 3 type de phases.
+- **Les phases d'enregistrement**  
+ Les phases d'enregistrement permettent de définir un point d'entrée à votre concours. C'est d'une phase d'enregistrement que les équipes inscrites vont commencer votre concours. Il est donc nécessaire d'avoir une phase d'enreigrement dans le design de votre concours pour que celui-ci fonctionne.
+- **Les phases de qualification**  
+ Les phases de qualification permettent de faire jouer des équipes entre elles dans cette phases. Elle fonctionne par nombre de tour. Ainsi, si votre phases est configuré pour 3 tour. Chaque équipe à l'intérieur de cette phase jouera 3 matchs. C'est le principe de la poule!
+- **Les phases éliminatoire**  
+ Les phases éliminatoire permettent de procéder à l'élimination des équipes avec le principe de quart, demi et finale. Les phases éliminatoires doivent avoir obligatoirement un nombre d'équipes bien précis. A savoir : 64, 32, 16, 8, 4 ou 2 équipes.
+
+### Phase d'enregistrement
+
+### Phase de qualification
+
+### Phase éliminatoire
