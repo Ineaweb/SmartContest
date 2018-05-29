@@ -1,5 +1,7 @@
 ﻿# Construire une compétition
 
+Avec SmartContest, vous pouvez organiser votre concours comme vous le souhaitez. Poules, Qualification, Repechage, Eliminatoire. Tout ou presque est possible. 
+
 ## Introduction
 
 Le designer de compétition permet de construire son concours à sa guise.
@@ -32,7 +34,7 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 
 1. Pour permettre aux équipes de passer de la phase d'enregistrement à la phase de qualification, il vous faut ajouter un module de liaison en réalisant un glisser-déposer de l'icon ![icon module de liaison](img/design-competition/7.jpg) sur la zone centrale.  
  ![module de liaison](img/design-competition/8.jpg)
-2. Avec la souris, cliquez sur une ancre de la phase d'enregistrement et maintenir enfoncé jusqu'à l'ancre du module de liaison.
+2. Avec la souris, cliquez sur une ancre de la phase d'enregistrement et maintenir enfoncé jusqu'à l'ancre du module de liaison.  
  ![lien module de laison](img/design-competition/9.jpg)
 3. Reproduisez, pour lié le module de liaison et la phase de qualification.
  ![lien module de liaison](img/design-competition/10.jpg)
@@ -75,12 +77,12 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 
 ## Les Phases
 
-Il existe 3 type de phases.
-- **Les phases d'enregistrement**  
- Les phases d'enregistrement permettent de définir un point d'entrée à votre concours. C'est d'une phase d'enregistrement que les équipes inscrites vont commencer votre concours. Il est donc nécessaire d'avoir une phase d'enreigrement dans le design de votre concours pour que celui-ci fonctionne.
-- **Les phases de qualification**  
+Il existe 3 type de phases :
++ **Les phases d'enregistrement**  
+ Les phases d'enregistrement permettent de définir un point d'entrée à votre concours. C'est d'une phase d'enregistrement que les équipes inscrites vont commencer votre concours. Il est donc nécessaire d'avoir une phase d'enreigrement dans le design de votre concours pour que celui-ci fonctionne.  
++ **Les phases de qualification**  
  Les phases de qualification permettent de faire jouer des équipes entre elles dans cette phases. Elle fonctionne par nombre de tour. Ainsi, si votre phases est configuré pour 3 tour. Chaque équipe à l'intérieur de cette phase jouera 3 matchs. C'est le principe de la poule!
-- **Les phases éliminatoire**  
++ **Les phases éliminatoire**  
  Les phases éliminatoire permettent de procéder à l'élimination des équipes avec le principe de quart, demi et finale. Les phases éliminatoires doivent avoir obligatoirement un nombre d'équipes bien précis. A savoir : 64, 32, 16, 8, 4 ou 2 équipes.
 
 ### Phase d'enregistrement
