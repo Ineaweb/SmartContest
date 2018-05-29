@@ -79,15 +79,12 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 
 Il existe 3 type de phases :
 
-+ **Les phases d'enregistrement**
-
+* **Les phases d'enregistrement**  
   Les phases d'enregistrement permettent de définir un point d'entrée à votre concours. C'est d'une phase d'enregistrement que les équipes inscrites vont commencer votre concours. Il est donc nécessaire d'avoir une phase d'enreigrement dans le design de votre concours pour que celui-ci fonctionne.  
-+ **Les phases de qualification**
-
+* **Les phases de qualification**  
   Les phases de qualification permettent de faire jouer des équipes entre elles dans cette phases. Elle fonctionne par nombre de tour. Ainsi, si votre phases est configuré pour 3 tour. Chaque équipe à l'intérieur de cette phase jouera 3 matchs. C'est le principe de la poule!
 
-+ **Les phases éliminatoire**
-
+* **Les phases éliminatoire**  
   Les phases éliminatoire permettent de procéder à l'élimination des équipes avec le principe de quart, demi et finale. Les phases éliminatoires doivent avoir obligatoirement un nombre d'équipes bien précis. A savoir : 64, 32, 16, 8, 4 ou 2 équipes.
 
 ### Phase d'enregistrement
@@ -112,13 +109,13 @@ Une popin d'édition s'affiche :
 ![popin édition](img/design-competition/27.jpg)  
 Vous pouvez alors :  
 
-+ modifier le **Nom de la phase**,
-+ cocher la case **Jouer contre chaque équipe**,
+* modifier le **Nom de la phase**,
+* cocher la case **Jouer contre chaque équipe**,
   > *Dans ce cas là, le nombre de match à jouer sera égale au nombre d'équipes dans la phase -1.*
-+ modifier le **Nombre de tours**,
+* modifier le **Nombre de tours**,
   > *Dans le cas ou la case à cocher **Jouer contre chaque équipe** est coché, ce sera alors le **Nombre de match par équipes**. le nombre de match à jouer sera égale au nombre d'équipes dans la phase -1 multiplié par le **Nombre de match par équipes**  
   Exemple : pour 4 équipes, si le **Nombre de match par équipes** est définit à 3, chaque équipe jouera alors (4-1) * 3 = 9 matchs.*
-+ cocher la case **Publier le classement**
+* cocher la case **Publier le classement**
   >  En cochant cette case, vous rendez publique le classement. L'effet est immédiat. Cela permet de ne pas rendre publique le classement en cours et d'éviter des arrangements (peu sportif) entre les équipes.
 
 #### Les règles
