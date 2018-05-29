@@ -87,6 +87,34 @@ Il existe 3 type de phases :
 
 ### Phase d'enregistrement
 
+Il n'y a pas de configuration particulière sur cette phase.  
+Pour modifier le nom de la phase, cliquez sur l'icon ![icon édition](img/design-competition/16.jpg) de la phase d'enregistrement.
+Dans la popin, saisissez le nom de la phase puis cliquez sur **Enregistrer**.  
+![popin édition](img/design-competition/26.jpg)
+
+> ### A savoir
+> + Une phase d'enregistrement est forcément au début du processus. Vous ne pouvez donc pas définir cette phase comme sortie dans un module de liaison.
+> + Actuellement, seul une phase d'enregistrement est autorisé dans le design d'un compétition. Vous pouvez ajouter d'autres phases d'enregistrement, mais lors du test de votre design, une erreur sera signalé.
+
 ### Phase de qualification
+
+Une phase de qualification est équivalente à une poule. Les équipes se rencontres et chaque équipes joue un certain nombre de matchs.
+
+#### Les propriétés
+
+Pour modifier les propriété d'une phase de qualification, cliquez sur l'icon ![icon édition](img/design-competition/16.jpg).
+Une popin d'édition s'affiche :  
+![popin édition](img/design-competition/27.jpg)  
+Vous pouvez alors :
++ modifier le **Nom de la phase**, 
++ cocher la case **Jouer contre chaque équipe**,
+  > *Dans ce cas là, le nombre de match à jouer sera égale au nombre d'équipes dans la phase -1.*
++ modifier le **Nombre de tours**,
+  > *Dans le cas ou la case à cocher **Jouer contre chaque équipe** est coché, ce sera alors le **Nombre de match par équipes**. le nombre de match à jouer sera égale au nombre d'équipes dans la phase -1 multiplié par le **Nombre de match par équipes**  
+  Exemple : pour 4 équipes, si le **Nombre de match par équipes** est définit à 3, chaque équipe jouera alors (4-1) * 3 = 9 matchs.*
++ cocher la case **Publier le classement**
+  >  En cochant cette case, vous rendez publique le classement. L'effet est immédiat. Cela permet de ne pas rendre publique le classement en cours et d'éviter des arrangements (peu sportif) entre les équipes.
+
+#### Les règles
 
 ### Phase éliminatoire
