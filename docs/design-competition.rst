@@ -25,9 +25,9 @@
     :width: 20pt
     :height: 20pt 
 
-*****
+
 Construire une compétition
-*****
+==========================
 
 Avec SmartContest, vous pouvez organiser votre concours comme vous le souhaitez. Poules, Qualification, Repechage, Eliminatoire. Tout ou presque est possible. 
 
