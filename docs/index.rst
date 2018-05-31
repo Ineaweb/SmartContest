@@ -15,6 +15,6 @@ Welcome to SmartContest's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :ref:`design-competition`
 * :ref:`modindex`
 * :ref:`search`
