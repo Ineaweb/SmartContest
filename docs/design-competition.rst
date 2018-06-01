@@ -25,28 +25,31 @@
     :width: 20pt
     :height: 20pt 
 
-
+##########################
 Construire une compétition
-==========================
+##########################
 
 Avec SmartContest, vous pouvez organiser votre concours comme vous le souhaitez. Poules, Qualification, Repechage, Eliminatoire. Tout ou presque est possible. 
 
+************
 Introduction
-**********************************
+************
 
 Le designer de compétition permet de construire son concours à sa guise.
 Il permet de définir le processus du concours avec les poules, les phases de qualification et d'éliminatoire.
 Il permet de définir les règles de chaque phase.
 
+*****************
 Comment y accéder
-**********************************
+*****************
 
 1. Créer ou ouvrir une compétition.
 2. Cliquer sur **Détails de la compétition**
  .. image:: img/design-competition/1.jpg
 
+****************
 Démarrage rapide
-**********************************
+****************
 
 Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enregistrement des équipes.
 
@@ -58,14 +61,14 @@ Ajout d'une phase d'enregistrement
  .. image:: img/design-competition/3.jpg
 
 Ajout d'une phase de qualification ou d'éliminatoire
-==================================
+====================================================
 
 1. Pour ajouter une phase de qualification, réalisez un glisser-déposer de l'icon |icon_phasequalif| sur la zone centrale.
  Vous pouvez aussi ajouter une phase d'éliminatoire en realisant un glisser-déposer de l'icon |icon_phaseeliminatoire| sur la zone centrale.
  .. image:: img/design-competition/6.jpg
 
 Ajout d'un module de liaison
-==================================
+============================
 
 1. Pour permettre aux équipes de passer de la phase d'enregistrement à la phase de qualification, il vous faut ajouter un module de liaison en réalisant un glisser-déposer de l'icon |icon_moduleliaison| sur la zone centrale.  
  .. image:: img/design-competition/8.jpg
@@ -84,7 +87,7 @@ Ajout d'un module de liaison
 8. Cliquez sur **Fermer**.
 
 Configurer une phase de qualification
-==================================
+=====================================
 
 1. Cliquez sur l'icon |icon_edition| de la phase de Qualification. Une popin s'ouvre.
  .. image:: img/design-competition/17.jpg
@@ -111,8 +114,9 @@ Tester le design de la compétition
 3. Vous pouvez aussi vérifier les résultat de la simulation sur chacune des phases en cliquant sur l'icon |icon_test|. Une popin s'ouvre et affiche les informations sur le **Nombre d'équipes**, le **Nombre de terrains** et le **Nombre de matchs** nécessaire.
  .. image:: img/design-competition/25.jpg
 
+**********
 Les Phases
-**********************************
+**********
 
 Il existe 3 type de phases :
 
@@ -124,7 +128,7 @@ Il existe 3 type de phases :
  Les phases éliminatoire permettent de procéder à l'élimination des équipes avec le principe de quart, demi et finale. Les phases éliminatoires doivent avoir obligatoirement un nombre d'équipes bien précis. A savoir : 64, 32, 16, 8, 4 ou 2 équipes.
 
 Phase d'enregistrement
-==================================
+======================
 
 Il n'y a pas de configuration particulière sur cette phase.  
 Pour modifier le nom de la phase, cliquez sur l'icon |icon_edition| de la phase d'enregistrement.
@@ -136,12 +140,12 @@ Dans la popin, saisissez le nom de la phase puis cliquez sur **Enregistrer**.
   * Actuellement, seul une phase d'enregistrement est autorisé dans le design d'un compétition. Vous pouvez ajouter d'autres phases d'enregistrement, mais lors du test de votre design, une erreur sera signalé.
 
 Phase de qualification
-==================================
+======================
 
 Une phase de qualification est équivalente à une poule. Les équipes se rencontres et chaque équipes joue un certain nombre de matchs.
 
 Les propriétés
-----------------------------------
+--------------
 
 Pour modifier les propriété d'une phase de qualification, cliquez sur l'icon |icon_edition|.
 Une popin d'édition s'affiche :  
@@ -158,7 +162,7 @@ Vous pouvez alors :
    En cochant cette case, vous rendez publique le classement. L'effet est immédiat. Cela permet de ne pas rendre publique le classement en cours et d'éviter des arrangements (peu sportif) entre les équipes.
 
 Les règles
-----------------------------------
+----------
 
 Phase éliminatoire
-==================================
+==================
