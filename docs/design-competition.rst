@@ -63,8 +63,7 @@ Ajout d'une phase d'enregistrement
 Ajout d'une phase de qualification ou d'éliminatoire
 ====================================================
 
-1. Pour ajouter une phase de qualification, réalisez un glisser-déposer de l'icon |icon_phasequalif| sur la zone centrale.
- Vous pouvez aussi ajouter une phase d'éliminatoire en realisant un glisser-déposer de l'icon |icon_phaseeliminatoire| sur la zone centrale.
+1. Pour ajouter une phase de qualification, réalisez un glisser-déposer de l'icon |icon_phasequalif| sur la zone centrale. Vous pouvez aussi ajouter une phase d'éliminatoire en realisant un glisser-déposer de l'icon |icon_phaseeliminatoire| sur la zone centrale.
  .. image:: img/design-competition/6.jpg
 
 Ajout d'un module de liaison
@@ -95,8 +94,7 @@ Configurer une phase de qualification
 3. Cliquez sur **Enregistrer**.
 4. Cliquez ensuite sur l'icon |icon_regle|. Une nouvelle popin s'ouvre.  
  .. image:: img/design-competition/18.jpg
-5. Sur cette popin, vous définissez les règles de classement des équipe dans votre phase. Vous pouvez avoir jusqu'à 4 règles de trie consécutives.
- En cochant la case **Cumuler le classement avec la précédente phase** Vous prenez en compte (additionné) le nombre de victoire les points pour et contres de la phase précédente pour déterminer le classement de la phase. Vous pouvez définir de ne prendre en compte que les X meilleur matchs de chaque équipe pour le classement en cochant la case **Classer sur les meilleurs matchs**.  
+5. Sur cette popin, vous définissez les règles de classement des équipe dans votre phase. Vous pouvez avoir jusqu'à 4 règles de trie consécutives. En cochant la case **Cumuler le classement avec la précédente phase** Vous prenez en compte (additionné) le nombre de victoire les points pour et contres de la phase précédente pour déterminer le classement de la phase. Vous pouvez définir de ne prendre en compte que les X meilleur matchs de chaque équipe pour le classement en cochant la case **Classer sur les meilleurs matchs**.  
  .. image:: img/design-competition/19.jpg
 6. Cliquez sur **Enregistrer**. Une nouvelle popin s'ouvre.  
  .. image:: img/design-competition/20.jpg
@@ -133,7 +131,7 @@ Phase d'enregistrement
 Il n'y a pas de configuration particulière sur cette phase.  
 Pour modifier le nom de la phase, cliquez sur l'icon |icon_edition| de la phase d'enregistrement.
 Dans la popin, saisissez le nom de la phase puis cliquez sur **Enregistrer**.  
-   .. image:: img/design-competition/26.jpg
+.. image:: img/design-competition/26.jpg
 
 .. important::
   * Une phase d'enregistrement est forcément au début du processus. Vous ne pouvez donc pas définir cette phase comme sortie dans un module de liaison.
