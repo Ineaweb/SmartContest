@@ -1,0 +1,187 @@
+.. SmartContest documentation master file, created by
+   sphinx-quickstart on Wed May 30 10:29:49 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. |icon_phaseenregistrement| image:: img/design-competition/2.jpg
+    :width: 20pt
+    :height: 20pt
+.. |icon_phasequalif| image:: img/design-competition/4.jpg
+    :width: 20pt
+    :height: 20pt
+.. |icon_phaseeliminatoire| image:: img/design-competition/5.jpg
+    :width: 20pt
+    :height: 20pt    
+.. |icon_moduleliaison| image:: img/design-competition/7.jpg
+    :width: 20pt
+    :height: 20pt  
+.. |icon_regle| image:: img/design-competition/11.jpg
+    :width: 20pt
+    :height: 20pt 
+.. |icon_edition| image:: img/design-competition/16.jpg
+    :width: 20pt
+    :height: 20pt 
+.. |icon_test| image:: img/design-competition/24.jpg
+    :width: 20pt
+    :height: 20pt    
+
+#####################
+Créer une compétition
+#####################
+
+1. Depuis la liste des compétitions cliquez sur **Créer une compétition**.  
+ .. image:: img/create-competition/1.jpg
+
+1. Saisissez le nom de la compétition (obligatoire).  
+ .. image:: img/create-competition/2.jpg
+
+3. Sélectionnez le modèle de compétition (facultatif).  
+ .. image:: img/create-competition/3.jpg
+
+1. Sélectionnez **Démarrer la démo (1 heure)** ou **Démarrer ou programmer sur un jour (payant)**. Si vous avez sélectionné **Démarrer ou programmer sur un jour (payant)**, saisissez la date de début de votre compétition.
+ .. image:: img/create-competition/4.jpg
+.. important::
+    Il faut au préalable s'enregistrer et se connecter avec l'application pour avoir l'option "Démarrer ou programmer sur un jour (payant)"*
+  
+2. Cliquez sur **Enregistrer**.
+
+##########################
+Construire une compétition
+##########################
+
+Avec SmartContest, vous pouvez organiser votre concours comme vous le souhaitez. Poules, Qualification, Repechage, Eliminatoire. Tout ou presque est possible. 
+
+************
+Introduction
+************
+
+Le designer de compétition permet de construire son concours à sa guise.
+Il permet de définir le processus du concours avec les poules, les phases de qualification et d'éliminatoire.
+Il permet de définir les règles de chaque phase.
+
+*****************
+Comment y accéder
+*****************
+
+1. Créer ou ouvrir une compétition.
+2. Cliquer sur **Détails de la compétition**
+ .. image:: img/design-competition/1.jpg
+
+****************
+Démarrage rapide
+****************
+
+Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enregistrement des équipes.
+
+Ajout d'une phase d'enregistrement
+==================================
+
+1. Réalisez un glisser-déposer de l'icon |icon_phaseenregistrement| sur la zone centrale.
+2. Renseigner le nom de cette phase dans la popin puis cliquer sur **Enregistrer**.
+ .. image:: img/design-competition/3.jpg
+
+Ajout d'une phase de qualification ou d'éliminatoire
+====================================================
+
+1. Pour ajouter une phase de qualification, réalisez un glisser-déposer de l'icon |icon_phasequalif| sur la zone centrale. Vous pouvez aussi ajouter une phase d'éliminatoire en realisant un glisser-déposer de l'icon |icon_phaseeliminatoire| sur la zone centrale.
+ .. image:: img/design-competition/6.jpg
+
+Ajout d'un module de liaison
+============================
+
+1. Pour permettre aux équipes de passer de la phase d'enregistrement à la phase de qualification, il vous faut ajouter un module de liaison en réalisant un glisser-déposer de l'icon |icon_moduleliaison| sur la zone centrale.  
+ .. image:: img/design-competition/8.jpg
+2. Avec la souris, cliquez sur une ancre de la phase d'enregistrement et maintenir enfoncé jusqu'à l'ancre du module de liaison.  
+ .. image:: img/design-competition/9.jpg
+3. Reproduisez, pour lié le module de liaison et la phase de qualification.
+ .. image:: img/design-competition/10.jpg
+4. Définisez les règles pour passer d'une phase à l'autre en cliquant sur l'icon |icon_regle| du module de liaison. Une popin s'ouvre.  
+ .. image:: img/design-competition/12.jpg
+5. Cliquez sur **Ajouter une règle**. Une nouvelle popin s'ouvre.  
+ .. image:: img/design-competition/13.jpg
+6. Remplissez les champs **Type de sélection**, **Source** et **Destination**. Vous pouvez définir aussi le **Nombre d'équipe à prendre** et le **Nombre d'équipe à passer**.  
+ .. image:: img/design-competition/14.jpg
+7. Cliquez sur **Enregistrer**. La popin se referme et la nouvelle règles s'affiche dans la liste des règles du module de liaison.  
+ .. image:: img/design-competition/15.jpg
+8. Cliquez sur **Fermer**.
+
+Configurer une phase de qualification
+=====================================
+
+1. Cliquez sur l'icon |icon_edition| de la phase de Qualification. Une popin s'ouvre.
+ .. image:: img/design-competition/17.jpg
+2. Remplissez les champs **Nom de la phase**, **Jouer contre chaque équipe**, **Nombre de tour** et **Publier le classement**.
+3. Cliquez sur **Enregistrer**.
+4. Cliquez ensuite sur l'icon |icon_regle|. Une nouvelle popin s'ouvre.  
+ .. image:: img/design-competition/18.jpg
+5. Sur cette popin, vous définissez les règles de classement des équipe dans votre phase. Vous pouvez avoir jusqu'à 4 règles de trie consécutives. En cochant la case **Cumuler le classement avec la précédente phase** Vous prenez en compte (additionné) le nombre de victoire les points pour et contres de la phase précédente pour déterminer le classement de la phase. Vous pouvez définir de ne prendre en compte que les X meilleur matchs de chaque équipe pour le classement en cochant la case **Classer sur les meilleurs matchs**.  
+ .. image:: img/design-competition/19.jpg
+6. Cliquez sur **Enregistrer**. Une nouvelle popin s'ouvre.  
+ .. image:: img/design-competition/20.jpg
+7. Sur cet écran, vous définissez les règles des matchs. Remplissez les différents champs.
+ .. image:: img/design-competition/21.jpg
+8. Cliquez sur **Enregistrer**.
+
+Tester le design de la compétition
+==================================
+
+1. cliquez sur **Tester la compétition**.  
+ .. image:: img/design-competition/22.jpg
+2. Attendez la fin du traitement. Une popin s'ouvre alors et vous informe si votre design de concours est valide ou pas. Vous avez une indication sur le nombre maximum et minimum géré par votre design de concours.
+ .. image:: img/design-competition/23.jpg  
+3. Vous pouvez aussi vérifier les résultat de la simulation sur chacune des phases en cliquant sur l'icon |icon_test|. Une popin s'ouvre et affiche les informations sur le **Nombre d'équipes**, le **Nombre de terrains** et le **Nombre de matchs** nécessaire.
+ .. image:: img/design-competition/25.jpg
+
+**********
+Les Phases
+**********
+
+Il existe 3 type de phases :
+
+* **Les phases d'enregistrement**  
+ Les phases d'enregistrement permettent de définir un point d'entrée à votre concours. C'est d'une phase d'enregistrement que les équipes inscrites vont commencer votre concours. Il est donc nécessaire d'avoir une phase d'enreigrement dans le design de votre concours pour que celui-ci fonctionne.
+* **Les phases de qualification**  
+ Les phases de qualification permettent de faire jouer des équipes entre elles dans cette phases. Elle fonctionne par nombre de tour. Ainsi, si votre phases est configuré pour 3 tour. Chaque équipe à l'intérieur de cette phase jouera 3 matchs. C'est le principe de la poule!
+* **Les phases éliminatoire**  
+ Les phases éliminatoire permettent de procéder à l'élimination des équipes avec le principe de quart, demi et finale. Les phases éliminatoires doivent avoir obligatoirement un nombre d'équipes bien précis. A savoir : 64, 32, 16, 8, 4 ou 2 équipes.
+
+Phase d'enregistrement
+======================
+
+Il n'y a pas de configuration particulière sur cette phase.  
+Pour modifier le nom de la phase, cliquez sur l'icon |icon_edition| de la phase d'enregistrement.
+Dans la popin, saisissez le nom de la phase puis cliquez sur **Enregistrer**.
+ .. image:: img/design-competition/26.jpg
+
+.. important::
+  * Une phase d'enregistrement est forcément au début du processus. Vous ne pouvez donc pas définir cette phase comme sortie dans un module de liaison.
+  * Actuellement, seul une phase d'enregistrement est autorisé dans le design d'un compétition. Vous pouvez ajouter d'autres phases d'enregistrement, mais lors du test de votre design, une erreur sera signalé.
+
+Phase de qualification
+======================
+
+Une phase de qualification est équivalente à une poule. Les équipes se rencontres et chaque équipes joue un certain nombre de matchs.
+
+Les propriétés
+--------------
+
+Pour modifier les propriété d'une phase de qualification, cliquez sur l'icon |icon_edition|.
+Une popin d'édition s'affiche :  
+   .. image:: img/design-competition/27.jpg
+Vous pouvez alors :
+
+* modifier le **Nom de la phase**,
+* cocher la case **Jouer contre chaque équipe**,
+   Dans ce cas là, le nombre de match à jouer sera égale au nombre d'équipes dans la phase -1.
+* modifier le **Nombre de tours**,
+   Dans le cas ou la case à cocher **Jouer contre chaque équipe** est coché, ce sera alors le **Nombre de match par équipes**. le nombre de match à jouer sera égale au nombre d'équipes dans la phase -1 multiplié par le **Nombre de match par équipes**.
+   Exemple : pour 4 équipes, si le **Nombre de match par équipes** est définit à 3, chaque équipe jouera alors (4-1) * 3 = 9 matchs.*
+* cocher la case **Publier le classement**
+   En cochant cette case, vous rendez publique le classement. L'effet est immédiat. Cela permet de ne pas rendre publique le classement en cours et d'éviter des arrangements (peu sportif) entre les équipes.
+
+Les règles
+----------
+
+Phase éliminatoire
+==================
+
