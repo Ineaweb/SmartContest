@@ -130,8 +130,8 @@ Phase d'enregistrement
 
 Il n'y a pas de configuration particulière sur cette phase.  
 Pour modifier le nom de la phase, cliquez sur l'icon |icon_edition| de la phase d'enregistrement.
-Dans la popin, saisissez le nom de la phase puis cliquez sur **Enregistrer**.  
-.. image:: img/design-competition/26.jpg
+Dans la popin, saisissez le nom de la phase puis cliquez sur **Enregistrer**.
+ .. image:: img/design-competition/26.jpg
 
 .. important::
   * Une phase d'enregistrement est forcément au début du processus. Vous ne pouvez donc pas définir cette phase comme sortie dans un module de liaison.
