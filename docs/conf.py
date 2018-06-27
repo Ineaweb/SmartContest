@@ -41,8 +41,7 @@ release = u''
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'sphinxcontrib.httpdomain',
+    'sphinx.ext.intersphinx'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
