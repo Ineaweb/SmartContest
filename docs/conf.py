@@ -41,7 +41,7 @@ release = u''
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx'
+    'sphinx.ext.intersphinx',
     'sphinx_rtd_theme'
 ]
 
