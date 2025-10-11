@@ -19,14 +19,6 @@ Bienvenue dans la documentation utilisateur de SmartContest, la solution SaaS po
    design-competition
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Indices et tables:
-
-   genindex
-   modindex
-   search
-
 .. |icon_phaseenregistrement| image:: img/design-competition/2.jpg
     :width: 20pt
     :height: 20pt
