@@ -29,15 +29,15 @@ Acheter des crédits pour organiser une compétition
 
    .. image:: img/buy-credit/5.png
 
-7. Cliquez sur "Valider".
+7. Cliquez sur "Continuer vers les conditions générales".
 
     .. image:: img/buy-credit/6.png
 
-8. Vous serez redirigé vers les conditions générales de vente de SmartContest. Lisez-les attentivement, puis cochez la case "J'ai lu et j'accepte les conditions générales de vente".
+8. Vous serez redirigé vers les conditions générales de vente de SmartContest. Lisez-les attentivement, puis cochez la case "J'ai lu et j'accepte les conditions générales de vente de SmartContest".
 
     .. image:: img/buy-credit/7.png
 
-9. Cliquez sur "Valider".
+9. Cliquez sur "Continuer vers le paiement".
 
     .. image:: img/buy-credit/8.png
 
@@ -48,3 +48,7 @@ Acheter des crédits pour organiser une compétition
 11. Une fois le paiement effectué, vos crédits seront ajoutés à votre compte SmartContest. Vous pouvez vérifier votre solde de crédits dans la section "Crédits" de votre profil.
 
     .. image:: img/buy-credit/10.png
+
+12. Vous pouvez consulter les factures de vos achats de crédits dans la section "Factures" de votre profil.
+
+    .. image:: img/buy-credit/11.png
