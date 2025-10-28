@@ -27,7 +27,7 @@
  
 
 ##########################
-Construire une compétition
+Concevoir une compétition
 ##########################
 
 Avec SmartContest, vous pouvez organiser votre concours comme vous le souhaitez : poules, qualification, repêchage, éliminatoire. Tout ou presque est possible. 

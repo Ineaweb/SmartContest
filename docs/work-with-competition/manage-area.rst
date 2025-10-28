@@ -26,7 +26,7 @@ Vous pouvez :
 * définir des plages horaires spécifiques pour chaque aire dans le cas ou votre compétition nécessite une gestion temporelle des différentes zones.
 
 .. note::
-    La définition des créneaux horaires pour chaque aire de compétition est possible lorsque la planification est activée dans les paramètres de votre compétition (cf. Configuration générale).
+    La définition des créneaux horaires pour chaque aire de compétition est possible lorsque la planification est activée dans les paramètres de votre compétition (cf. :doc:`configuration générale <general-configuration>`).
 
 ********************************************************
 Ajouter une aire de compétition
@@ -92,7 +92,7 @@ Définir des plages horaires pour une aire de compétition
 ********************************************************
 
 .. note::
-    Cette fonctionnalité est disponible uniquement si la planification est activée dans les paramètres de votre compétition (cf. Configuration générale).
+    Cette fonctionnalité est disponible uniquement si la planification est activée dans les paramètres de votre compétition (cf. :doc:`configuration générale <general-configuration>`).
 
 1. Dans la liste des terrains, localisez celui pour lequel vous souhaitez définir des plages horaires.
 
