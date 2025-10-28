@@ -16,37 +16,6 @@ Bienvenue dans la documentation utilisateur de SmartContest, la solution SaaS po
    create-account
    buy-credit
    create-competition
-   design-competition
    work-with-competition/index
 
-.. |icon_phaseenregistrement| image:: img/design-competition/2.jpg
-    :width: 20pt
-    :height: 20pt
-.. |icon_phasequalif| image:: img/design-competition/4.jpg
-    :width: 20pt
-    :height: 20pt
-.. |icon_phaseeliminatoire| image:: img/design-competition/5.jpg
-    :width: 20pt
-    :height: 20pt    
-.. |icon_moduleliaison| image:: img/design-competition/7.jpg
-    :width: 20pt
-    :height: 20pt  
-.. |icon_regle| image:: img/design-competition/11.jpg
-    :width: 20pt
-    :height: 20pt 
-.. |icon_edition| image:: img/design-competition/16.jpg
-    :width: 20pt
-    :height: 20pt 
-.. |icon_test| image:: img/design-competition/24.jpg
-    :width: 20pt
-    :height: 20pt    
-.. |icon_sync| image:: img/create-competition/12.png
-    :width: 20pt
-    :height: 20pt 
-.. |icon_dupliquer| image:: img/work-with-competition/manage-area/10.png
-    :width: 20pt
-    :height: 20pt
-.. |icon_supprimer| image:: img/work-with-competition/manage-area/11.png
-    :width: 20pt
-    :height: 20pt
 

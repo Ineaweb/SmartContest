@@ -3,27 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. |icon_phaseenregistrement| image:: img/design-competition/2.jpg
+.. |icon_phaseenregistrement| image:: ../img/work-with-competition/design-competition/2.jpg
     :width: 20pt
     :height: 20pt
-.. |icon_phasequalif| image:: img/design-competition/4.jpg
+.. |icon_phasequalif| image:: ../img/work-with-competition/design-competition/4.jpg
     :width: 20pt
     :height: 20pt
-.. |icon_phaseeliminatoire| image:: img/design-competition/5.jpg
+.. |icon_phaseeliminatoire| image:: ../img/work-with-competition/design-competition/5.jpg
     :width: 20pt
-    :height: 20pt    
-.. |icon_moduleliaison| image:: img/design-competition/7.jpg
+    :height: 20pt
+.. |icon_moduleliaison| image:: ../img/work-with-competition/design-competition/7.jpg
     :width: 20pt
-    :height: 20pt  
-.. |icon_regle| image:: img/design-competition/11.jpg
+    :height: 20pt
+.. |icon_regle| image:: ../img/work-with-competition/design-competition/11.jpg
     :width: 20pt
-    :height: 20pt 
-.. |icon_edition| image:: img/design-competition/16.jpg
+    :height: 20pt
+.. |icon_edition| image:: ../img/work-with-competition/design-competition/16.jpg
     :width: 20pt
-    :height: 20pt 
-.. |icon_test| image:: img/design-competition/24.jpg
+    :height: 20pt
+.. |icon_test| image:: ../img/work-with-competition/design-competition/24.jpg
     :width: 20pt
-    :height: 20pt 
+    :height: 20pt
+ 
 
 ##########################
 Construire une compétition
@@ -46,7 +47,7 @@ Comment y accéder
 1. Créez ou ouvrez une compétition.
 2. Cliquez sur **Détails de la compétition**
    
-   .. image:: img/design-competition/1.jpg
+   .. image:: ../img/work-with-competition/design-competition/1.jpg
 
 ****************
 Démarrage rapide
@@ -60,44 +61,44 @@ Ajout d'une phase d'enregistrement
 1. Réalisez un glisser-déposer de l'icône |icon_phaseenregistrement| sur la zone centrale.
 2. Renseignez le nom de cette phase dans la fenêtre contextuelle puis cliquez sur **Enregistrer**.
    
-   .. image:: img/design-competition/3.jpg
+   .. image:: ../img/work-with-competition/design-competition/3.jpg
 
 Ajout d'une phase de qualification ou d'éliminatoire
 ====================================================
 
 1. Pour ajouter une phase de qualification, réalisez un glisser-déposer de l'icône |icon_phasequalif| sur la zone centrale. Vous pouvez aussi ajouter une phase d'éliminatoire en réalisant un glisser-déposer de l'icône |icon_phaseeliminatoire| sur la zone centrale.
    
-   .. image:: img/design-competition/6.jpg
+   .. image:: ../img/work-with-competition/design-competition/6.jpg
 
 Ajout d'un module de liaison
 ============================
 
 1. Pour permettre aux équipes de passer de la phase d'enregistrement à la phase de qualification, il vous faut ajouter un module de liaison en réalisant un glisser-déposer de l'icône |icon_moduleliaison| sur la zone centrale.  
-   
-   .. image:: img/design-competition/8.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/8.jpg
 
 2. Avec la souris, cliquez sur une ancre de la phase d'enregistrement et maintenez enfoncé jusqu'à l'ancre du module de liaison.  
-   
-   .. image:: img/design-competition/9.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/9.jpg
 
 3. Reproduisez l'opération pour lier le module de liaison et la phase de qualification.
-   
-   .. image:: img/design-competition/10.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/10.jpg
 
 4. Définissez les règles pour passer d'une phase à l'autre en cliquant sur l'icône |icon_regle| du module de liaison. Une fenêtre contextuelle s'ouvre.  
-   
-   .. image:: img/design-competition/12.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/12.jpg
 5. Cliquez sur **Ajouter une règle**. Une nouvelle fenêtre contextuelle s'ouvre.  
-   
-   .. image:: img/design-competition/13.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/13.jpg
 
 6. Remplissez les champs **Type de sélection**, **Source** et **Destination**. Vous pouvez définir aussi le **Nombre d'équipes à prendre** et le **Nombre d'équipes à passer**.  
-   
-   .. image:: img/design-competition/14.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/14.jpg
 
 7. Cliquez sur **Enregistrer**. La fenêtre contextuelle se referme et la nouvelle règle s'affiche dans la liste des règles du module de liaison.  
-   
-   .. image:: img/design-competition/15.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/15.jpg
 
 8. Cliquez sur **Fermer**.
 
@@ -105,44 +106,44 @@ Configurer une phase de qualification
 =====================================
 
 1. Cliquez sur l'icône |icon_edition| de la phase de qualification. Une fenêtre contextuelle s'ouvre.
-   
-   .. image:: img/design-competition/17.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/17.jpg
 
 2. Remplissez les champs **Nom de la phase**, **Jouer contre chaque équipe**, **Nombre de tours** et **Publier le classement**.
 
 3. Cliquez sur **Enregistrer**.
 
-4. Cliquez ensuite sur l'icône |icon_regle|. Une nouvelle fenêtre contextuelle s'ouvre.  
-   
-   .. image:: img/design-competition/18.jpg
-5. Dans cette fenêtre contextuelle, vous définissez les règles de classement des équipes dans votre phase. Vous pouvez avoir jusqu'à 4 règles de tri consécutives. En cochant la case **Cumuler le classement avec la précédente phase**, vous prenez en compte (additionnez) le nombre de victoires, les points pour et contre de la phase précédente pour déterminer le classement de la phase. Vous pouvez définir de ne prendre en compte que les X meilleurs matchs de chaque équipe pour le classement en cochant la case **Classer sur les meilleurs matchs**.  
-   
-   .. image:: img/design-competition/19.jpg
+4. Cliquez ensuite sur l'icône |icon_regle|. Une nouvelle fenêtre contextuelle s'ouvre.
 
-6. Cliquez sur **Enregistrer**. Une nouvelle fenêtre contextuelle s'ouvre.  
-   
-   .. image:: img/design-competition/20.jpg
+   .. image:: ../img/work-with-competition/design-competition/18.jpg
+5. Dans cette fenêtre contextuelle, vous définissez les règles de classement des équipes dans votre phase. Vous pouvez avoir jusqu'à 4 règles de tri consécutives. En cochant la case **Cumuler le classement avec la précédente phase**, vous prenez en compte (additionnez) le nombre de victoires, les points pour et contre de la phase précédente pour déterminer le classement de la phase. Vous pouvez définir de ne prendre en compte que les X meilleurs matchs de chaque équipe pour le classement en cochant la case **Classer sur les meilleurs matchs**.
+
+   .. image:: ../img/work-with-competition/design-competition/19.jpg
+
+6. Cliquez sur **Enregistrer**. Une nouvelle fenêtre contextuelle s'ouvre.
+
+   .. image:: ../img/work-with-competition/design-competition/20.jpg
 
 7. Dans cet écran, vous définissez les règles des matchs. Remplissez les différents champs.
-   
-   .. image:: img/design-competition/21.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/21.jpg
 
 8. Cliquez sur **Enregistrer**.
 
 Tester la conception de la compétition
 ====================================
 
-1. Cliquez sur **Tester la compétition**.  
-   
-   .. image:: img/design-competition/22.jpg
+1. Cliquez sur **Tester la compétition**.
+
+   .. image:: ../img/work-with-competition/design-competition/22.jpg
 
 2. Attendez la fin du traitement. Une fenêtre contextuelle s'ouvre alors et vous informe si votre conception de concours est valide ou non. Vous avez une indication sur le nombre maximum et minimum géré par votre conception de concours.
-   
-   .. image:: img/design-competition/23.jpg  
+
+   .. image:: ../img/work-with-competition/design-competition/23.jpg
 
 3. Vous pouvez aussi vérifier les résultats de la simulation sur chacune des phases en cliquant sur l'icône |icon_test|. Une fenêtre contextuelle s'ouvre et affiche les informations sur le **Nombre d'équipes**, le **Nombre de terrains** et le **Nombre de matchs** nécessaires.
-   
-   .. image:: img/design-competition/25.jpg
+
+   .. image:: ../img/work-with-competition/design-competition/25.jpg
 
 **********
 Les phases
@@ -166,7 +167,7 @@ Il n'y a pas de configuration particulière pour cette phase.
 Pour modifier le nom de la phase, cliquez sur l'icône |icon_edition| de la phase d'enregistrement.
 Dans la fenêtre contextuelle, saisissez le nom de la phase puis cliquez sur **Enregistrer**.
 
-.. image:: img/design-competition/26.jpg
+.. image:: ../img/work-with-competition/design-competition/26.jpg
 
 .. important::
    * Une phase d'enregistrement est forcément au début du processus. Vous ne pouvez donc pas définir cette phase comme sortie dans un module de liaison.
@@ -183,7 +184,7 @@ Les propriétés
 Pour modifier les propriétés d'une phase de qualification, cliquez sur l'icône |icon_edition|.
 Une fenêtre contextuelle d'édition s'affiche :  
 
-.. image:: img/design-competition/27.jpg
+.. image:: ../img/work-with-competition/design-competition/27.jpg
 
 Vous pouvez alors :
 

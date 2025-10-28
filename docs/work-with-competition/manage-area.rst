@@ -3,6 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. |icon_edition| image:: ../img/work-with-competition/design-competition/16.jpg
+    :width: 20pt
+    :height: 20pt 
+.. |icon_dupliquer| image:: ../img/work-with-competition/manage-area/10.png
+    :width: 20pt
+    :height: 20pt
+.. |icon_supprimer| image:: ../img/work-with-competition/manage-area/11.png
+    :width: 20pt
+    :height: 20pt
+
 ###############################
 Gérer les aires de compétition
 ###############################

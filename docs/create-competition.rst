@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. |icon_sync| image:: img/create-competition/12.png
+    :width: 20pt
+    :height: 20pt 
+
 #####################
 Créer une compétition
 #####################
