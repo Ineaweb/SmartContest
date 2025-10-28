@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-#####################
+####################################################
 Acheter des crédits pour organiser une compétition
-#####################
+####################################################
 
 1. Allez sur la page d'accueil de SmartContest : https://www.smartcontest.fr/
 

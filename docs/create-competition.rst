@@ -9,17 +9,17 @@ Créer une compétition
 
 Pour créer une compétition, vous pouvez le faire soit depuis le site web SmartContest, soit depuis l'application SmartContest.
 Si vous souhaitez vous entrainer ou découvrir les fonctionnalités de SmartContest, vous pouvez créer une compétition gratuitement en mode démo (1 heure) depuis l'application uniquement.
-Sinon, il vous faudra un crédit pour créer une compétition depuis le site web ou depuis l'application. Vous pouvez acheter des crédits en suivant le guide "Acheter des crédits pour organiser une compétition".
+Sinon, il vous faudra un crédit pour créer une compétition depuis le site web. Vous pouvez acheter des crédits en suivant le guide "Acheter des crédits pour organiser une compétition".
 
 .. important::
     Lors de la création d'une compétition, le nom de la compétition et la date de début sont obligatoires. Vous pouvez modifier la date de début après la création de la compétition si besoin.
-    Si vous avez utilisé un crédit pour créer une compétition, vous pourrez modifier la date de début de votre compétition ou supprimer celle-ci jusqu'à 24 heures avant le début de la compétition.
+    Si vous avez utilisé un crédit pour créer une compétition, vous pourrez modifier la date de début de votre compétition ou supprimer celle-ci jusqu'à 2 jours avant le début de la compétition.
     Si vous supprimez la compétition avant ce délai, le crédit utilisé pour la création de la compétition sera recrédité sur votre compte SmartContest.
     Passé ce délai, la date de début ne pourra plus être modifiée et votre crédit ne sera pas recrédité.
 
-************
-Depuis le site web
-************
+********************************************************
+Depuis le site web (pour une compétition sur 24 heures)
+********************************************************
 
 1. Allez sur la page d'accueil de SmartContest : https://www.smartcontest.fr/
 
@@ -66,9 +66,21 @@ Depuis le site web
 
    .. image:: img/create-competition/10.png
 
-************
-Depuis l'application SmartContest
-************
+12. Ouvrez l'application SmartContest.
+
+13. Connectez-vous à votre compte depuis l'application.
+
+   .. image:: img/create-competition/11.png
+
+14. Mettez à jour la liste des compétitions en cliquant sur l'icône de rafraichissement |icon_sync|.
+
+15. Votre nouvelle compétition apparait dans la liste des compétitions (associé à un crédit). 
+
+16. Cliquez sur |icon_edition| de votre compétition pour l'ouvrir et commencer la configuration.
+
+******************************************************************************
+Depuis l'application SmartContest (pour une compétition en mode démo 1 heure)
+******************************************************************************
 
 1. Ouvrez l'application SmartContest.
 
@@ -76,22 +88,22 @@ Depuis l'application SmartContest
    
    .. image:: img/create-competition/1.jpg
 
-3. Saisissez le nom de la compétition (obligatoire).  
+3. Sélectionnez **Démarrer la démo (1 heure)**.
 
-   .. image:: img/create-competition/2.jpg
+   .. image:: img/create-competition/2b.png      
 
-4. Sélectionnez le modèle de compétition (facultatif).  
+4. Saisissez le nom de la compétition (obligatoire).  
 
-   .. image:: img/create-competition/3.jpg
+   .. image:: img/create-competition/3b.png
 
-5. Sélectionnez **Démarrer la démo (1 heure)** ou **Démarrer ou programmer sur un jour (payant)**. Si vous avez sélectionné **Démarrer ou programmer sur un jour (payant)**, saisissez la date de début de votre compétition.
+5. Sélectionnez le modèle de compétition (facultatif).  
 
-   .. image:: img/create-competition/4.jpg
-   
+   .. image:: img/create-competition/4b.png
+
    .. important::
-      Il faut au préalable s'enregistrer et se connecter avec l'application pour avoir l'option "Démarrer ou programmer sur un jour (payant)".
+      Vous pouvez aussi charger votre propre modèle de compétition en cliquant sur **Charger le modèle**.
 
-   .. image:: img/create-competition/5.jpg
+6. Cliquez sur **Créer**. Votre compétition de démonstration est créée et ouverte pour la configuration.
 
-6. Cliquez sur **Enregistrer**.
+   .. image:: img/create-competition/5b.png
 

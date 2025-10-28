@@ -17,7 +17,7 @@ Bienvenue dans la documentation utilisateur de SmartContest, la solution SaaS po
    buy-credit
    create-competition
    design-competition
-
+   work-with-competition/index
 
 .. |icon_phaseenregistrement| image:: img/design-competition/2.jpg
     :width: 20pt
@@ -40,5 +40,13 @@ Bienvenue dans la documentation utilisateur de SmartContest, la solution SaaS po
 .. |icon_test| image:: img/design-competition/24.jpg
     :width: 20pt
     :height: 20pt    
-
+.. |icon_sync| image:: img/create-competition/12.png
+    :width: 20pt
+    :height: 20pt 
+.. |icon_dupliquer| image:: img/work-with-competition/manage-area/10.png
+    :width: 20pt
+    :height: 20pt
+.. |icon_supprimer| image:: img/work-with-competition/manage-area/11.png
+    :width: 20pt
+    :height: 20pt
 
