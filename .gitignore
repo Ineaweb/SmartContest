@@ -1,1 +1,26 @@
 _build/
+site/
+
+# Sauvegardes de test de thèmes
+mkdocs.yml.backup
+docs/theme.backup/
+
+# Cache Python et MkDocs
+__pycache__/
+*.py[cod]
+*$py.class
+.mkdocs_cache/
+
+# Environnement virtuel
+venv/
+env/
+.env
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db

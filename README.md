@@ -1,12 +1,17 @@
-# SmartContest
+# SmartContest - Documentation
 
-## Description
+📚 **Documentation complète de SmartContest** - Plateforme de gestion de concours moderne avec interface utilisateur intuitive.
 
-SmartContest est une solution SaaS permettant d'organiser et de gérer des compétitions sportives de manière simple et efficace.
+## 🎯 Aperçu
 
-## Documentation
+SmartContest est une plateforme complète pour la création, la gestion et l'administration de concours en ligne. Cette documentation vous guide à travers toutes les fonctionnalités de la plateforme.
 
-La documentation utilisateur est disponible dans le dossier `docs/` et utilise désormais Markdown avec MkDocs pour la génération.
+## 📖 Documentation
+
+### 🚀 Accès rapide
+- **Documentation en ligne** : [Consultez la documentation](https://votre-username.github.io/SmartContest)
+- **Guide de démarrage** : [Créer votre premier concours](tmp/design-competition.md)
+- **Configuration** : [Paramétrer votre plateforme](tmp/general-configuration.md)
 
 ### Structure de la documentation
 

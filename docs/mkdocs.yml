@@ -11,21 +11,22 @@ repo_url: https://github.com/Ineaweb/SmartContest
 theme:
   name: material
   language: fr
+  
+  # Palette par défaut Material
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: blue
-      accent: blue
+    - scheme: default
       toggle:
         icon: material/brightness-7
-        name: Passer au mode sombre
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: blue
+        name: Passer en mode sombre
+    - scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Passer au mode clair
+        name: Passer en mode clair
+    #     name: Passer en mode clair
+
+  font:
+    text: Poppins  
+
   features:
     - navigation.tabs
     - navigation.sections

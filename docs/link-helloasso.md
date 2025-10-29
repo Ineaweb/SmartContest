@@ -24,8 +24,4 @@
 
 6. Suivez les instructions pour autoriser la connexion entre SmartContest et HelloAsso.
 
-   ![Autorisation connexion](img/link-helloasso/5.png)
-
 7. Une fois lié, vous pourrez associer vos billetteries HelloAsso à vos compétitions SmartContest.
-
-   ![Association billetteries](img/link-helloasso/6.png)
