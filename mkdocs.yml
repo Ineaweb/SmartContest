@@ -1,20 +1,16 @@
-# Configuration MkDocs pour SmartContest Documentation
-site_name: SmartContest - Documentation
-site_author: SmartContest Team
-site_description: Documentation complète de SmartContest - Plateforme de gestion de concours
+site_name: Documentation SmartContest
+site_description: Documentation utilisateur de SmartContest, la solution SaaS pour organiser vos compétitions sportives
+site_author: Ineaweb
+site_url: https://smartcontest.fr
 
-# Configuration du repository
-repo_name: SmartContest/Documentation
-repo_url: https://github.com/votre-username/SmartContest
-edit_uri: edit/main/docs/
+# Repository
+repo_name: Ineaweb/SmartContest
+repo_url: https://github.com/Ineaweb/SmartContest
 
-# Configuration de sortie
+docs_dir: docs
 site_dir: site
 
-# Répertoire des sources
-docs_dir: docs
-
-# Configuration du thème
+# Configuration
 theme:
   name: material
   language: fr
@@ -29,42 +25,20 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Passer en mode clair
-  
-  # Configuration des fonctionnalités de base
+    #     name: Passer en mode clair
+
+  font:
+    text: Poppins  
+
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - navigation.tracking
     - search.highlight
     - search.share
-    - search.suggest
-    - content.code.copy
-    - content.action.edit
-    - content.action.view
-    - content.tabs.link
-    - toc.follow
-    - toc.integrate
-  
-  # Configuration des icônes
-  icon:
-    repo: fontawesome/brands/github
-    edit: material/pencil
-    view: material/eye
-    logo: material/trophy
-    
-  # Configuration du favicon
-  favicon: assets/favicon.ico
 
-# CSS et JavaScript personnalisés
-# extra_css:
-#   - theme/smartcontest.css
-
-# extra_javascript:
-#   - theme/smartcontest.js
-
-# Configuration de la navigation
+# Navigation
 nav:
   - Accueil: index.md
   - Guide utilisateur:
@@ -79,98 +53,23 @@ nav:
       - Gérer les participants: work-with-competition/manage-participant.md
       - Concevoir une compétition: work-with-competition/design-competition.md
 
-# Extensions Markdown
+# Extensions
 markdown_extensions:
-  # Extensions Python-Markdown
-  - abbr
   - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
-  - toc:
-      permalink: true
-      title: Sur cette page
-  - tables
-  
-  # Extensions PyMdown
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: votre-username
-      repo: SmartContest
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
 
-# Configuration des plugins
+# Plugins
 plugins:
   - search:
       lang: fr
-      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
-  - minify:
-      minify_html: true
-      minify_js: true
-      minify_css: true
-      htmlmin_opts:
-        remove_comments: true
-      cache_safe: true
-
-# Variables extra
-extra:
-  version:
-    provider: mike
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/votre-username/SmartContest
-      name: SmartContest sur GitHub
-    - icon: fontawesome/solid/globe
-      link: https://www.smartcontest.fr
-      name: Site officiel SmartContest
-  
-  # Analytics (optionnel)
-  # analytics:
-  #   provider: google
-  #   property: G-XXXXXXXXXX
-
-# Configuration du copyright
-copyright: |
-  &copy; 2024 SmartContest. Tous droits réservés. | 
-  <a href="privacy_policy.html">Politique de confidentialité</a>
-
-# Configuration des hooks (optionnel pour des transformations avancées)
-# hooks:
-#   - scripts/hooks.py
-
-# Configuration de validation stricte
-strict: true
-
-# Configuration des formats de sortie supplémentaires
-# use_directory_urls: true
-
-# Configuration de surveillance des fichiers
-watch:
-  - mkdocs.yml
