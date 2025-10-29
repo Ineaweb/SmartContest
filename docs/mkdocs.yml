@@ -7,6 +7,9 @@ site_url: https://smartcontest.fr
 repo_name: Ineaweb/SmartContest
 repo_url: https://github.com/Ineaweb/SmartContest
 
+docs_dir: docs
+site_dir: site
+
 # Configuration
 theme:
   name: material
