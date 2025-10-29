@@ -2,7 +2,7 @@
 
 1. Allez sur la page d'accueil de SmartContest : <https://www.smartcontest.fr/>
 
-2. Cliquez sur le bouton "S'inscrire" en haut à droite de la page.
+2. Cliquez sur le bouton **S'inscrire** en haut à droite de la page.
 
    ![S'inscrire](img/create-account/1.png)
 

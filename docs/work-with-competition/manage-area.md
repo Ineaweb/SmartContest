@@ -8,11 +8,13 @@ Vous pouvez :
 - activer ou désactiver leur utilisation, et
 - définir des plages horaires spécifiques pour chaque aire dans le cas où votre compétition nécessite une gestion temporelle des différentes zones.
 
-> **Note :** La définition des créneaux horaires pour chaque aire de compétition est possible lorsque la planification est activée dans les paramètres de votre compétition (cf. [configuration générale](general-configuration.md)).
+!!! note
+    La définition des créneaux horaires pour chaque aire de compétition est possible lorsque la planification est activée dans les paramètres de votre compétition (cf. [configuration générale](general-configuration.md)).
 
 ## Ajouter une aire de compétition
 
-> **Note :** En fonction de la configuration de votre compétition, cette section peut être nommée "Terrain", "Table", "Planche", etc.
+!!! info
+    En fonction de la configuration de votre compétition, cette section peut être nommée "Terrain", "Table", "Planche", etc.
 
 1. Accédez à la section "Terrains" dans le menu de gestion de votre compétition.
 
@@ -28,7 +30,8 @@ Vous pouvez :
 
 ## Activer ou désactiver une aire de compétition
 
-> **Note :** La désactivation d'une aire de compétition empêche son utilisation dans la compétition, mais conserve ses données pour une utilisation future. Elle peut être utile dans le cas où l'un de vos terrains ne peut plus être utilisé durant la compétition.
+!!! note 
+    La désactivation d'une aire de compétition empêche son utilisation dans la compétition, mais conserve ses données pour une utilisation future. Elle peut être utile dans le cas où l'un de vos terrains ne peut plus être utilisé durant la compétition.
 
 1. Dans la liste des terrains, localisez celui que vous souhaitez activer ou désactiver.
 
@@ -56,13 +59,15 @@ Dans certains cas, il peut être utile de créer plusieurs aires de compétition
 
    ![Règle de nommage](../img/work-with-competition/manage-area/6.png)
 
-> **Note :** Dans cet exemple la règle de nommage utilisée est "Terrain %num%", ce qui génère les noms de terrains : "Terrain 1", "Terrain 2", etc.
+    !!! example Exemple
+        Dans cet exemple la règle de nommage utilisée est "Terrain %num%", ce qui génère les noms de terrains : "Terrain 1", "Terrain 2", etc.
 
 4. Cliquez sur "Enregistrer" pour créer les terrains.
 
 ## Définir des plages horaires pour une aire de compétition
 
-> **Note :** Cette fonctionnalité est disponible uniquement si la planification est activée dans les paramètres de votre compétition (cf. [configuration générale](general-configuration.md)).
+!!! note
+    Cette fonctionnalité est disponible uniquement si la planification est activée dans les paramètres de votre compétition (cf. [configuration générale](general-configuration.md)).
 
 1. Dans la liste des terrains, localisez celui pour lequel vous souhaitez définir des plages horaires.
 

@@ -16,4 +16,5 @@ Pour y accéder, cliquez sur ![icône configuration](../img/work-with-competitio
 
 Modifiez les paramètres selon vos besoins, puis cliquez sur "Enregistrer" pour appliquer les changements.
 
-> **Note :** C'est ici aussi que vous trouverez le QR Organisateurs qui vous permettra d'utiliser l'application mobile SmartContest en tant qu'organisateur.
+!!! info
+    C'est ici aussi que vous trouverez le QR Organisateurs qui vous permettra d'utiliser l'application mobile SmartContest en tant qu'organisateur.

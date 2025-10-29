@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 1000 1000"
+   id="svg4136"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SmartContestNewLogoFinished5-white.svg">
+  <defs
+     id="defs4138" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-971.85244"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg4136"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4141">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4702"
+     transform="matrix(0.84678104,0.68272476,-0.68272476,0.84678104,418.21012,-260.84802)"
+     style="fill-opacity:1;fill:#ffffff">
+    <g
+       transform="translate(-2.4788037,0)"
+       id="g4696"
+       style="fill-opacity:1;fill:#ffffff">
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect4684"
+         width="215"
+         height="680"
+         x="392.5"
+         y="281.27393"
+         rx="107"
+         ry="107" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1"
+         id="path4686"
+         cx="500"
+         cy="140.96924"
+         r="107.5" />
+    </g>
+    <rect
+       ry="71"
+       rx="71"
+       y="425.34146"
+       x="201.58731"
+       height="465"
+       width="143"
+       id="rect4690"
+       style="fill:#ffffff;fill-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect4692"
+       width="143"
+       height="465"
+       x="650.45508"
+       y="101.99576"
+       rx="71"
+       ry="71" />
+  </g>
+</svg>

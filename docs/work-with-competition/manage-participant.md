@@ -12,9 +12,11 @@ La gestion des participants est une étape cruciale dans l'organisation d'une co
 
 L'étape de pré-inscription permet aux participants potentiels de manifester leur intérêt pour la compétition avant la période officielle d'inscription. Cela aide les organisateurs à estimer le nombre de participants et à planifier en conséquence.
 
-> **Note :** Cette fonctionnalité peut être utilisée avec votre billetterie HelloAsso pour une gestion simplifiée des pré-inscriptions. Pour cela, il faudra au préalable lier votre compétition à une billetterie HelloAsso (cf. [Créer une compétition](../create-competition.md)).
+!!! note
+    Cette fonctionnalité peut être utilisée avec votre billetterie HelloAsso pour une gestion simplifiée des pré-inscriptions. Pour cela, il faudra au préalable lier votre compétition à une billetterie HelloAsso (cf. [Créer une compétition](../create-competition.md)).
 
-> **Note 2 :** En fonction de la configuration de votre compétition, cette section peut être nommée "Joueurs inscrits", "Equipes inscrites", "Concurrents inscrits", etc.
+!!! info
+    En fonction de la configuration de votre compétition, cette section peut être nommée "Joueurs inscrits", "Equipes inscrites", "Concurrents inscrits", etc.
 
 1. Accédez à la section **Equipes inscrites** dans le menu de gestion de votre compétition.
 
@@ -67,7 +69,8 @@ L'étape de pré-inscription permet aux participants potentiels de manifester le
 
 ### Importer des pré-inscriptions depuis HelloAsso
 
-> **Note :** Cette fonctionnalité est disponible uniquement si vous avez lié votre compétition à une billetterie HelloAsso (cf. [Créer une compétition](../create-competition.md)).
+!!! note 
+    Cette fonctionnalité est disponible uniquement si vous avez lié votre compétition à une billetterie HelloAsso (cf. [Créer une compétition](../create-competition.md)).
 
 1. Cliquez sur le bouton **Importer depuis HelloAsso**.
 
@@ -81,10 +84,12 @@ L'étape de pré-inscription permet aux participants potentiels de manifester le
 
     ![Charger pré-inscrits](../img/work-with-competition/manage-participant/13.png)
 
-> **Note :** Vous avez la possibilité de déterminer le nom de l'équipe en fonction des informations de mapping des membres. 3 options sont proposées :
-> - **[Concaténer les prénoms]** : Le prénom de chaque membre est concaténé pour former le nom de l'équipe (exemple : "Alice - Bob - Charlie").
-> - **[Concaténer les noms]** : Le nom de famille de chaque membre est concaténé pour former le nom de l'équipe (exemple : "Dupont - Martin - Durand").
-> - **[Concaténer les surnoms]** : Le surnom de chaque membre est concaténé pour former le nom de l'équipe (exemple : "Dédé - Bob - Ptit Jean").
+    !!! note 
+        Vous avez la possibilité de déterminer le nom de l'équipe en fonction des informations de mapping des membres. 3 options sont proposées :
+
+        - **[Concaténer les prénoms]** : Le prénom de chaque membre est concaténé pour former le nom de l'équipe (exemple : "Alice - Bob - Charlie").
+        - **[Concaténer les noms]** : Le nom de famille de chaque membre est concaténé pour former le nom de l'équipe (exemple : "Dupont - Martin - Durand").
+        - **[Concaténer les surnoms]** : Le surnom de chaque membre est concaténé pour former le nom de l'équipe (exemple : "Dédé - Bob - Ptit Jean").
 
 4. Une fois l'importation terminée, les pré-inscriptions apparaissent dans la liste des pré-inscriptions avec comme origine "HelloAsso".
 
@@ -94,21 +99,24 @@ L'étape de pré-inscription permet aux participants potentiels de manifester le
 
 Le jour de l'ouverture des inscriptions (lors du pointage), vous pouvez convertir les pré-inscriptions en inscriptions réelles.
 
-> **Note :** Cette fonctionnalité est disponible uniquement si vous avez démarré la phase d'enregistrement des équipes.
+!!! note
+   Cette fonctionnalité est disponible uniquement si vous avez démarré la phase d'enregistrement des équipes.
 
 1. Dans la liste des pré-inscriptions, localisez celle que vous souhaitez inscrire.
 
    ![Liste des pré-inscriptions](../img/work-with-competition/manage-participant/15.png)
 
-   > **Astuce :** Aidez vous du moteur de recherche pour trouver rapidement une pré-inscription spécifique.
+   !!! tip
+        Aidez-vous du moteur de recherche pour trouver rapidement une pré-inscription spécifique.
 
 2. Cliquez sur ![icône inscrire](../img/work-with-competition/manage-participant/16.png) pour inscrire la pré-inscription.
 
-Vous pouvez aussi inscrire automatiquement toutes les pré-inscriptions en cliquant sur le bouton **Accepter toutes les pré-inscriptions**.
+    Vous pouvez aussi inscrire automatiquement toutes les pré-inscriptions en cliquant sur le bouton **Accepter toutes les pré-inscriptions**.
 
-   ![Accepter toutes les pré-inscriptions](../img/work-with-competition/manage-participant/17.png)
+    ![Accepter toutes les pré-inscriptions](../img/work-with-competition/manage-participant/17.png)
 
->  **Cas spécifique des compétitions avec billetterie HelloAsso :** Si une équipe lors du pointage s'est inscrite via la billetterie HelloAsso, vous pouvez scanner le QR code de son billet pour l'inscrire automatiquement.
+    !!! info  Cas spécifique des compétitions avec billetterie HelloAsso 
+        Si une équipe lors du pointage s'est inscrite via la billetterie HelloAsso, vous pouvez scanner le QR code de son billet pour l'inscrire automatiquement.
 
 3. La pré-inscription est maintenant convertie en inscription et apparaît dans la liste des équipes inscrites.
 
@@ -138,7 +146,8 @@ La gestion des inscriptions permet de suivre les équipes ou participants offici
 
    Une fois le QR code affecté, l'équipe pourra utiliser ce QR code pour s'identifier et suivre son statut durant la compétition (matchs, scores classement, ...).
 
-   > **Note :** Vous pouvez imprimer les QR code de vos équipes dans la section "Impression" de l'application SmartContest (cf. : [Impression des QR codes](../img/work-with-competition/print.md)).
+   !!! note 
+        Vous pouvez imprimer les QR code de vos équipes dans la section "Impression" de l'application SmartContest (cf. : [Impression des QR codes](../img/work-with-competition/print.md)).
 
 4. Cliquez sur **Enregistrer** pour enregistrer l'inscription.
 

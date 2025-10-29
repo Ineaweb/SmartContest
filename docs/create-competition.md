@@ -4,12 +4,13 @@ Pour créer une compétition, vous pouvez le faire soit depuis le site web Smart
 Si vous souhaitez vous entraîner ou découvrir les fonctionnalités de SmartContest, vous pouvez créer une compétition gratuitement en mode démo (1 heure) depuis l'application uniquement.
 Sinon, il vous faudra un crédit pour créer une compétition depuis le site web. Vous pouvez acheter des crédits en suivant le guide "Acheter des crédits pour organiser une compétition".
 
-> **Important :** Lors de la création d'une compétition, le nom de la compétition et la date de début sont obligatoires. Vous pouvez modifier la date de début après la création de la compétition si besoin.
->
-> Si vous avez utilisé un crédit pour créer une compétition, vous pourrez modifier la date de début de votre compétition ou supprimer celle-ci jusqu'à 2 jours avant le début de la compétition.
->
-> Si vous supprimez la compétition avant ce délai, le crédit utilisé pour la création de la compétition sera recrédité sur votre compte SmartContest.
-> Passé ce délai, la date de début ne pourra plus être modifiée et votre crédit ne sera pas recrédité.
+!!! warning  Important
+    Lors de la création d'une compétition, le nom de la compétition et la date de début sont obligatoires. Vous pouvez modifier la date de début après la création de la compétition si besoin.
+
+    Si vous avez utilisé un crédit pour créer une compétition, vous pourrez modifier la date de début de votre compétition ou supprimer celle-ci jusqu'à 2 jours avant le début de la compétition.
+
+    Si vous supprimez la compétition avant ce délai, le crédit utilisé pour la création de la compétition sera recrédité sur votre compte SmartContest.
+    Passé ce délai, la date de début ne pourra plus être modifiée et votre crédit ne sera pas recrédité.
 
 ## Depuis le site web (pour une compétition sur 24 heures)
 
@@ -31,7 +32,8 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
 
    ![Informations évènement](img/create-competition/4.png)
 
-   > **Important :** Le Titre et la date de début sont obligatoires.
+   !!! note
+        Le Titre et la date de début sont obligatoires.
 
 6. Cliquez sur **Suivant: Billeterie HelloAsso**.
 
@@ -42,7 +44,7 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
    ![Configuration billetterie](img/create-competition/6.png)
 
 8. Cliquez sur **Suivant: Crédit SmartContest**.
-   
+
    ![Crédit SmartContest](img/create-competition/7.png)
 
 9. Cliquez sur **Charger mes crédits disponibles**.
@@ -73,8 +75,8 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
 
 1. Ouvrez l'application SmartContest.
 
-2. Depuis la liste des compétitions, cliquez sur **Créer une compétition**.  
-   
+2. Depuis la liste des compétitions, cliquez sur **Créer une compétition**.
+
    ![Créer compétition](img/create-competition/1.jpg)
 
 3. Sélectionnez **Démarrer la démo (1 heure)**.
@@ -89,7 +91,8 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
 
    ![Modèle compétition](img/create-competition/4b.png)
 
-   > **Important :** Vous pouvez aussi charger votre propre modèle de compétition en cliquant sur **Charger le modèle**.
+   !!! tip Astuce
+        Vous pouvez aussi charger votre propre modèle de compétition en cliquant sur **Charger le modèle**.
 
 6. Cliquez sur **Créer**. Votre compétition de démonstration est créée et ouverte pour la configuration.
 

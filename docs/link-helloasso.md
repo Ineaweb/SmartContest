@@ -1,8 +1,9 @@
 # Lier son compte SmartContest à HelloAsso
 
-> **Important :** Le fait de lier votre compte SmartContest à HelloAsso vous permet d'associer vos billetteries HelloAsso à vos compétitions SmartContest.
-> Au moment de l'inscription de vos participants vous pourrez rapatrier automatiquement les informations d'inscription depuis HelloAsso.
-> Vous pourrez aussi automatiser l'inscription des participants avec le QR code fourni sur chaque billet HelloAsso.
+!!! warning Important
+    Le fait de lier votre compte SmartContest à HelloAsso vous permet d'associer vos billetteries HelloAsso à vos compétitions SmartContest.
+    Au moment de l'inscription de vos participants vous pourrez rapatrier automatiquement les informations d'inscription depuis HelloAsso.
+    Vous pourrez aussi automatiser l'inscription des participants avec le QR code fourni sur chaque billet HelloAsso.
 
 1. Allez sur la page d'accueil de SmartContest : <https://www.smartcontest.fr/>
 
@@ -24,4 +25,4 @@
 
 6. Suivez les instructions pour autoriser la connexion entre SmartContest et HelloAsso.
 
-7. Une fois lié, vous pourrez associer vos billetteries HelloAsso à vos compétitions SmartContest.
+Une fois lié, vous pourrez associer vos billetteries HelloAsso à vos compétitions SmartContest.

@@ -12,7 +12,7 @@ Il permet de définir les règles de chaque phase.
 
 1. Créez ou ouvrez une compétition.
 2. Cliquez sur **Détails de la compétition**
-   
+
    ![Détails de la compétition](../img/work-with-competition/design-competition/1.jpg)
 
 ## Démarrage rapide
@@ -23,13 +23,13 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 
 1. Réalisez un glisser-déposer de l'icône ![icône phase enregistrement](../img/work-with-competition/design-competition/2.jpg) sur la zone centrale.
 2. Renseignez le nom de cette phase dans la fenêtre contextuelle puis cliquez sur **Enregistrer**.
-   
+
    ![Enregistrer phase](../img/work-with-competition/design-competition/3.jpg)
 
 ### Ajout d'une phase de qualification ou d'éliminatoire
 
 1. Pour ajouter une phase de qualification, réalisez un glisser-déposer de l'icône ![icône phase qualif](../img/work-with-competition/design-competition/4.jpg) sur la zone centrale. Vous pouvez aussi ajouter une phase d'éliminatoire en réalisant un glisser-déposer de l'icône ![icône phase éliminatoire](../img/work-with-competition/design-competition/5.jpg) sur la zone centrale.
-   
+
    ![Phase qualification ou éliminatoire](../img/work-with-competition/design-competition/6.jpg)
 
 ### Ajout d'un module de liaison
@@ -127,10 +127,9 @@ Dans la fenêtre contextuelle, saisissez le nom de la phase puis cliquez sur **E
 
 ![Configuration phase enregistrement](../img/work-with-competition/design-competition/26.jpg)
 
-> **Important :**
->
-> - Une phase d'enregistrement est forcément au début du processus. Vous ne pouvez donc pas définir cette phase comme sortie dans un module de liaison.
-> - Actuellement, seule une phase d'enregistrement est autorisée dans la conception d'une compétition. Vous pouvez ajouter d'autres phases d'enregistrement, mais lors du test de votre conception, une erreur sera signalée.
+!!! warning Important
+    - Une phase d'enregistrement est forcément au début du processus. Vous ne pouvez donc pas définir cette phase comme sortie dans un module de liaison.
+    - Actuellement, seule une phase d'enregistrement est autorisée dans la conception d'une compétition. Vous pouvez ajouter d'autres phases d'enregistrement, mais lors du test de votre conception, une erreur sera signalée.
 
 ### Phase de qualification
 
