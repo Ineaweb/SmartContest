@@ -10,12 +10,15 @@ repo_url: https://github.com/Ineaweb/SmartContest
 docs_dir: docs
 site_dir: site
 
+extra_css: [theme/smartcontest.css]
+
 # Configuration
 theme:
   name: material
   language: fr
   favicon: img/favicon.ico
   logo: img/logo-white.svg
+
   
   # Palette par défaut Material
   palette:

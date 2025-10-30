@@ -1,4 +1,4 @@
-# Gestion d'une compétition avec SmartContest
+# Gestion d'une compétition
 
 Cette section de la documentation vous guide à travers les différentes étapes de la gestion de votre compétition à l'aide de SmartContest. Vous y trouverez des instructions détaillées sur la configuration, la gestion des participants, la planification des épreuves, et bien plus encore.
 
