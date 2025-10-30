@@ -46,6 +46,7 @@ Avant de lancer les matchs, vous devez affecter chaque équipe à une phase de l
 Cette étape est essentielle pour organiser les rencontres entre les équipes.
 
 Il existe trois type de phases :
+
 - **Les poules** (ou phases de qualification) où les équipes s'affrontent plusieurs fois selon un nombre de tours défini,
 - **Les éliminatoires** où les équipes s'affrontent en mode "élimination directe",
 - **Les rencontres uniques** où les équipes s'affrontent une seule fois.
