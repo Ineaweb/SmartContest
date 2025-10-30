@@ -51,7 +51,7 @@ Il existe trois type de phases :
 - **Les éliminatoires** où les équipes s'affrontent en mode "élimination directe",
 - **Les rencontres uniques** où les équipes s'affrontent une seule fois.
 
-Pour plus de détails sur cette étape, consultez la section [Concevoir une compétition](design-competition.md).
+Pour plus de détails sur les types de phases, consultez la section [Concevoir une compétition](design-competition.md).
 
 ## 5- Tirage des matchs
 
