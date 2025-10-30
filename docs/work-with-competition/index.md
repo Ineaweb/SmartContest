@@ -52,7 +52,7 @@ Il existe trois type de phases :
 
 Pour plus de détails sur cette étape, consultez la section [Concevoir une compétition](design-competition.md).
 
-### 5- Tirage des matchs
+## 5- Tirage des matchs
 
 Une fois les équipes affectées aux différentes phases, vous pouvez procéder au tirage des matchs.
 Cette étape génère automatiquement les rencontres entre les équipes selon les règles définies dans la conception de la compétition.
