@@ -5,7 +5,7 @@ Cette section de la documentation vous guide à travers les différentes étapes
 Dans smartcontest, une compétition se déroule selon le flux suivant :
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[Activation] --> B
     B[Enregistrement des participants] --> C
     C[Création des zones de compétition] --> D
