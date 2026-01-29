@@ -43,7 +43,7 @@ Vous pouvez :
 
    ![Activer terrain](../img/work-with-competition/manage-area/3.png)
 
-## Créer une série d'aires de compétitions
+## Créer une série d'aires de compétition
 
 Dans certains cas, il peut être utile de créer plusieurs aires de compétition en une seule opération, par exemple pour des compétitions avec de nombreux terrains similaires.
 
@@ -60,7 +60,7 @@ Dans certains cas, il peut être utile de créer plusieurs aires de compétition
    ![Règle de nommage](../img/work-with-competition/manage-area/6.png)
 
     !!! info Exemple
-        Dans cet exemple la règle de nommage utilisée est "Terrain %num%", ce qui génère les noms de terrains : "Terrain 1", "Terrain 2", etc.
+        Dans cet exemple, la règle de nommage utilisée est "Terrain %num%", ce qui génère les noms de terrains : "Terrain 1", "Terrain 2", etc.
 
 4. Cliquez sur "Enregistrer" pour créer les terrains.
 

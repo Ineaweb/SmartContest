@@ -140,14 +140,14 @@ La gestion des inscriptions permet de suivre les équipes ou participants offici
 
    ![Formulaire d'ajout d'équipe](../img/work-with-competition/manage-participant/20.png)
 
-3. Si vous utiliser le système de QR code proposé par SmartContest, vous pouvez affecter un QR code unique à cette équipe en cliquant sur le bouton **Affecter un code QR**.
+3. Si vous utilisez le système de QR code proposé par SmartContest, vous pouvez affecter un QR code unique à cette équipe en cliquant sur le bouton **Affecter un code QR**.
 
    ![Affecter QR code](../img/work-with-competition/manage-participant/21.png)
 
-   Une fois le QR code affecté, l'équipe pourra utiliser ce QR code pour s'identifier et suivre son statut durant la compétition (matchs, scores classement, ...).
+   Une fois le QR code affecté, l'équipe pourra utiliser ce QR code pour s'identifier et suivre son statut durant la compétition (matchs, scores, classement, ...).
 
    !!! note 
-        Vous pouvez imprimer les QR code de vos équipes dans la section "Impression" de l'application SmartContest (cf. : [Impression des QR codes](../img/work-with-competition/print.md)).
+        Vous pouvez imprimer les QR codes de vos équipes dans la section "Impression" de l'application SmartContest (cf. : [Impression des QR codes](../img/work-with-competition/print.md)).
 
 4. Cliquez sur **Enregistrer** pour enregistrer l'inscription.
 
@@ -187,7 +187,7 @@ Dans le cas où une équipe ou un participant abandonne la compétition ou est d
 
 L'équipe est maintenant marquée comme **forfait** dans la liste des inscriptions. Celle-ci ne sera plus prise en compte dans les matchs et sera automatiquement reléguée dans le bas du classement.
 
-### Consulter les information d'une inscription
+### Consulter les informations d'une inscription
 
 1. Dans la liste des équipes inscrites, localisez celle dont vous souhaitez consulter les informations.
 

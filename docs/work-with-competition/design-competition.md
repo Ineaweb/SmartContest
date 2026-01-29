@@ -100,9 +100,9 @@ Les règles d'affectation permettent de définir combien et comment les équipes
    ![Définir les règles d'affectation](../img/work-with-competition/design-competition/33.png)
 
    !!! example
-      Dans un concours de belote individuel (concours à la mélée), chaque rencontre/partie/match se joue entre 4 joueurs consittué de 2 groupes de 2 joueurs (2 équipes de 2 joueurs). Pour chaque rencontre/partie/match, les groupes de joueurs (équipes) sont affectées aléatoirement.
+      Dans un concours de belote individuel (concours à la mélée), chaque rencontre/partie/match se joue entre 4 joueurs constitué de 2 groupes de 2 joueurs (2 équipes de 2 joueurs). Pour chaque rencontre/partie/match, les groupes de joueurs (équipes) sont affectées aléatoirement.
 
-1. Selectionnez le **Type d'affectation** dans la liste déroulante.
+1. Sélectionnez le **Type d'affectation** dans la liste déroulante.
 
    !!! info
         Les types d'affectation disponibles sont les suivants :
@@ -191,7 +191,7 @@ Les sous-rencontres/parties/matchs permettent de définir des parties internes �
 4. Cliquez ensuite sur l'icône ![icône règle](../img/work-with-competition/design-competition/11.jpg). Une nouvelle fenêtre contextuelle s'ouvre.
    ![Règles classement](../img/work-with-competition/design-competition/29.png)
 
-5. Dans cette fenêtre contextuelle, sélectionnez le modèle de rencontre que vous souhaitez utilsier dans cette phase.
+5. Dans cette fenêtre contextuelle, sélectionnez le modèle de rencontre que vous souhaitez utiliser dans cette phase.
 
 6. Cliquez sur **Enregistrer**. Une nouvelle fenêtre contextuelle s'ouvre.
    ![Règles classement](../img/work-with-competition/design-competition/18.png)
@@ -235,7 +235,7 @@ Les sous-rencontres/parties/matchs permettent de définir des parties internes �
 
 #### Définir les récompenses de la phase
 
-SmartContest permet de définir des récompenses pour les équipes à la fin d'une phase. Cette fonctionnalité est utile pour attribuer des prix ou des distinctions aux meilleures et aider les organisateurs à gérer les remises de récompenses de manière efficace grace à l'application mobile SmartContest.
+SmartContest permet de définir des récompenses pour les équipes à la fin d'une phase. Cette fonctionnalité est utile pour attribuer des prix ou des distinctions aux meilleures et aider les organisateurs à gérer les remises de récompenses de manière efficace grâce à l'application mobile SmartContest.
 
 1. Sur la fenêtre de configuration de la phase, cliquez sur l'icône ![icône lots](../img/work-with-competition/design-competition/40.png). Une nouvelle fenêtre contextuelle s'ouvre.
 
@@ -307,7 +307,7 @@ Vous pouvez alors :
 - Modifier le **Nom de la phase**,
 - Cocher la case **Jouer contre chaque équipe**,
   Dans ce cas, le nombre de matchs à jouer sera égal au nombre d'équipes dans la phase -1.
-- Selectionnez le **Mode d'affectation des équipes**,
+- Sélectionnez le **Mode d'affectation des équipes**,
 
   - **Aléatoire** : Les équipes sont affectées de manière aléatoire dans les rencontres.
   - **Eviter les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en évitant que des équipes de la même catégorie s'affrontent.
@@ -338,7 +338,7 @@ Une fenêtre contextuelle d'édition s'affiche :
 Vous pouvez alors :
 
 - Modifier le **Nom de la phase**,
-- Selectionnez le **Mode d'affectation des équipes**,
+- Sélectionnez le **Mode d'affectation des équipes**,
 
   - **Aléatoire** : Les équipes sont affectées de manière aléatoire dans la rencontre.
   - **Le premier contre le dernier** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre la moins bonne équipe, la deuxième meilleure contre la deuxième moins bonne, etc. en se basant sur le classement de la phase précédente.
@@ -374,7 +374,7 @@ Vous pouvez alors :
 
 - Modifier le **Nom de la phase**,
 - Cocher la case **Jouer la petite finale** si vous souhaitez qu'une rencontre pour la troisième place soit jouée entre les deux équipes éliminées en demi-finale.
-- Selectionnez le **Mode d'affectation des équipes**,
+- Sélectionnez le **Mode d'affectation des équipes**,
 
   - **Aléatoire** : Les équipes sont affectées de manière aléatoire dans la rencontre.
   - **Le premier contre le dernier** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre la moins bonne équipe, la deuxième meilleure contre la deuxième moins bonne, etc. en se basant sur le classement de la phase précédente.

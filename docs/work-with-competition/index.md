@@ -37,7 +37,7 @@ Pour plus de détails sur cette étape, consultez la section [Gérer les partici
 ## 3- Gestion des zones de compétition
 
 Les zones de compétition représentent les différents emplacements où se dérouleront les épreuves de votre compétition (terrains, tables, etc.).
-Vous devez obiligatoirement créer au moins une zone de compétition avant de pouvoir lancer les matchs.
+Vous devez obligatoirement créer au moins une zone de compétition avant de pouvoir lancer les matchs.
 Pour plus de détails sur cette étape, consultez la section [Gérer les zones](manage-area.md).
 
 ## 4- Affectation des équipes

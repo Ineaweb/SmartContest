@@ -25,7 +25,7 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
     ![Liste des matchs](../img/work-with-competition/manage-contest/15.png)
 
-2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyer sur la touche **Entrée** de votre clavier.
+2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyez sur la touche **Entrée** de votre clavier.
 
 3. Saisissez le score pour chaque équipe.
 
@@ -33,7 +33,7 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
     Vous pouvez indiquer si l'une des 2 équipes était absente en cochant la case "Absent".
 
-    La saisie des scores est soumis au règles de saisie définit dans la configuration de votre compétition (cf. [configuration des scores](configure-score.md)). Cependant, vous pouvez déverrouiller la saisie en cliquant sur l'icone ![icône déverrouiller](../img/work-with-competition/manage-contest/5.png) pour forcer la saisie d'un score non conforme aux règles définies. Dans ce cas, vous devrez définir quel équipe est déclarée gagnante du match.
+    La saisie des scores est soumise aux règles de saisie définies dans la configuration de votre compétition (cf. [configuration des scores](configure-score.md)). Cependant, vous pouvez déverrouiller la saisie en cliquant sur l'icône ![icône déverrouiller](../img/work-with-competition/manage-contest/5.png) pour forcer la saisie d'un score non conforme aux règles définies. Dans ce cas, vous devrez définir quelle équipe est déclarée gagnante du match.
 
     ![Définir l'équipe gagnante](../img/work-with-competition/manage-contest/17.png)
 
@@ -47,7 +47,7 @@ Dans le cas où une rencontre est composée de plusieurs sous-matches (par exemp
 
     ![Liste des matchs](../img/work-with-competition/manage-contest/20.png)
 
-2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyer sur la touche **Entrée** de votre clavier.
+2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyez sur la touche **Entrée** de votre clavier.
 
 3. Saisissez le score pour chaque sous-match.
 
@@ -59,7 +59,7 @@ Une fois tous les sous-matches saisis, vous revenez à la racine du match où vo
 
 ![Liste sous-matches](../img/work-with-competition/manage-contest/22.png)
 
-Vous pouvez ainsi modifier le score global si nécessaire en cliquant sur ![icône deverouiller](../img/work-with-competition/manage-contest/5.png) ou appuyer sur la touche **Entrée** de votre clavier.
+Vous pouvez ainsi modifier le score global si nécessaire en cliquant sur ![icône déverrouiller](../img/work-with-competition/manage-contest/5.png) ou appuyez sur la touche **Entrée** de votre clavier.
 
 Vous pouvez aussi modifier la saisie d'un sous-match en cliquant sur le nom du sous-match dans le menu de navigation à gauche.
 
@@ -69,7 +69,7 @@ Vous pouvez aussi modifier la saisie d'un sous-match en cliquant sur le nom du s
 
     ![Liste des matchs](../img/work-with-competition/manage-contest/18.png)
 
-2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyer sur la touche **Entrée** de votre clavier.
+2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyez sur la touche **Entrée** de votre clavier.
 
 3. Modifiez le score pour chaque équipe.
 
