@@ -8,6 +8,8 @@ Vous pouvez configurer les éléments suivants :
 - Le libellé d'une aire de compétition (par exemple "Terrain", "Table", "Planche", etc.),
 - Le libellé d'un match (par exemple "Match", "Rencontre", "Partie", etc.),
 - Le libellé d'une série de matchs (par exemple "Phase", "Étape", "Round", etc.),
+- Le libellé des manches (par exemple "Set", "Manche", "Donne", etc.),
+- Activer ou désactiver la possibilité pour les joueurs d'enregistrer leurs résultats via l'application mobile SmartContest,
 - Activer ou désactiver la planification des matchs,
 
 Pour y accéder, cliquez sur ![icône configuration](../img/work-with-competition/general-configuration/1.png) dans le menu de gestion de votre compétition.

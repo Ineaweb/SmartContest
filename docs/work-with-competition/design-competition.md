@@ -54,9 +54,18 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 
    ![Ajouter règle](../img/work-with-competition/design-competition/13.jpg)
 
-6. Remplissez les champs **Type de sélection**, **Source** et **Destination**. Vous pouvez définir aussi le **Nombre d'équipes à prendre** et le **Nombre d'équipes à passer**.
+6. Remplissez les champs **Type de sélection**, **Source** et **Destination**. Vous pouvez définir aussi le **Nombre d'équipes à prendre**, le **Nombre d'équipes à passer** et la **catégorie** si nécessaire.
 
    ![Configuration règle](../img/work-with-competition/design-competition/14.jpg)
+
+   !!! info
+         Il existe plusieurs types de sélection :
+         - **Sélectionner tout le monde** : les équipes de la phase source passent toutes à la phase de destination.
+         - **Sélectionner au hasard** : les équipes de la phase source sont sélectionnées au hasard pour passer à la phase de destination. Vous devrez alors préciser le nombre de d'équipes à prendre.
+         - **Sélectionner par rapport au classement ascendant** : les équipes les mieux classées de la phase source passent à la phase de destination. Vous devrez alors préciser le nombre de d'équipes à prendre et le nombre d'équipes à passer.
+         - **Sélectionner par rapport au classement descendant** : les équipes les moins bien classées de la phase source passent à la phase de destination. Vous devrez alors préciser le nombre de d'équipes à prendre et le nombre d'équipes à passer.
+         - **Sélectionner les éliminés** : Cette option est uniquement disponible pour les phases éliminatoires. Les équipes éliminées de la phase source passent à la phase de destination. Vous devrez alors préciser le nombre de d'équipes à prendre.
+         - **Sélectionner par rapport à une catégorie** : les équipes de la phase source appartenant à une catégorie spécifique passent à la phase de destination. Vous devrez alors préciser la catégorie concernée et le nombre de d'équipes à prendre.
 
 7. Cliquez sur **Enregistrer**. La fenêtre contextuelle se referme et la nouvelle règle s'affiche dans la liste des règles du module de liaison.
 
@@ -64,33 +73,181 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 
 8. Cliquez sur **Fermer**.
 
-### Configurer une phase de qualification
+### Gérer les modèles des rencontres
+
+SmartContest permet de configurer finement le comportement des rencontres/parties/matchs. Vous pouvez définir les règles d'affectations des équipes, les règles de la partie mais aussi définir des sous-rencontres/parties/matchs (manches, sets, donnes, etc.) et pour chacune d'entre elles définir des règles spécifiques.
+
+Pour simplifier la gestion des rencontres/parties/matchs, SmartContest utilise des modèles de rencontre. 
+Pour ajouter, modifier ou supprimer un modèle de rencontre, cliquez sur ![icône rencontre modèle](../img/work-with-competition/design-competition/30.png) **Gérer les modèles des [rencontres/parties/matchs]**.
+
+   ![Configuration phase qualification](../img/work-with-competition/design-competition/31.png)
+
+Voici la procédure pour créer ou modifier un modèle de rencontre :
+
+1. Cliquez sur **Ajouter un modèle de [rencontre/partie/match]** ou sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg) pour modifier un modèle existant. Une fenêtre contextuelle s'ouvre.
+
+   ![Modèle rencontre](../img/work-with-competition/design-competition/32.png)
+
+2. Remplissez les champs **Nom** et **Style de partie**.
+
+   !!! info
+        Le **Style de partie** détermine la façon dont les scores sont saisis et affichés dans l'application mobile SmartContest et au niveau de l'affichage dynamique.
+
+#### Définir les règles d'affectation
+
+Les règles d'affectation permettent de définir combien et comment les équipes sont affectées dans une rencontre/partie/match.
+
+   ![Définir les règles d'affectation](../img/work-with-competition/design-competition/33.png)
+
+   !!! example
+      Dans un concours de belote individuel (concours à la mélée), chaque rencontre/partie/match se joue entre 4 joueurs consittué de 2 groupes de 2 joueurs (2 équipes de 2 joueurs). Pour chaque rencontre/partie/match, les groupes de joueurs (équipes) sont affectées aléatoirement.
+
+1. Selectionnez le **Type d'affectation** dans la liste déroulante.
+
+   !!! info
+        Les types d'affectation disponibles sont les suivants :
+        - **Aléatoire** : Les équipes sont affectées dans les groupes de manière aléatoire.
+        - **Conserver les affectations** : Cette option n'est opérationnel que pour les sous-rencontres/parties/matchs. Les équipes sont affectées dans les groupes en conservant les affectations de la rencontre/partie/match parente.
+        - **Par catégorie** : Les équipes sont affectées dans les groupes en fonction de leur catégorie.
+        - **Définit manuelle** : Les équipes sont affectées manuellement par l'organisateur avant le début de la rencontre/partie/match. (pas encore disponible)
+
+2. Renseignez le **Nombre d'équipes pour constituer un groupe**.
+
+3. Renseignez le **Nombre minimal de groupes par partie**.
+
+4. Renseignez le **Nombre maximal de groupes par partie**.
+
+5. Cochez la case **Conserver sur la même [plaque/planche/table/terrain]** si vous souhaitez que les équipes restent sur la même aire de compétition. Cette option n'est opérationnel que pour les sous-rencontres/parties/matchs.
+
+#### Définir les règles de la partie
+
+Les règles de la partie permettent de définir comment se déroule une rencontre/partie/match.
+
+   ![Définir les règles de la partie](../img/work-with-competition/design-competition/34.png)
+
+1. Sélectionnez le **Type de sélection** dans la liste déroulante.
+
+   !!! info
+        Les types de sélection disponibles sont les suivants :
+        - **Celui qui à le plus petit score** : La rencontre/partie/match est remportée par le groupe d'équipes ayant le plus petit score.
+        - **Celui qui à le plus grand score** : La rencontre/partie/match est remportée par le groupe d'équipes ayant le plus grand score.
+        - **celui qui est en dessous de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint un score en dessous d'une valeur définie.
+        - **Celui qui est au dessus de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint un score au dessus d'une valeur définie.
+        - **Le premier qui à atteint le score de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint en premier un score défini.
+        - **Le premier qui à atteint le score de ... avec 2 points d'écarts** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint en premier un score défini avec au moins 2 points d'écarts par rapport à l'autre groupe d'équipes.
+
+2. Cochez la case **Définir le total de point à distribuer** si vous souhaitez que la rencontre/partie/match ait un total de points fixe à se partager entre les groupes d'équipes.
+
+3. Si vous avez coché la case précédente, renseignez le **Total de points à distribuer** et **Nombre maximal de points bonus**.
+
+4. Cochez la case **Définir le nombre de point au début** : si vous souhaitez que chaque groupe d'équipes commence la rencontre/partie/match avec un certain nombre de points.
+
+5. Si vous avez coché la case précédente, renseignez le **Score au début**.
+
+6. Cochez la case **Affecter le score au nombre de points** si vous souhaitez que le score de la rencontre/partie/match soit égal au nombre de points obtenus par chaque groupe d'équipes.
+
+   !!! Example
+        Dans un concours de belote, le score est égal au nombre de points obtenus par chaque équipe.
+
+7. Si vous n'avez pas coché la case précédente, renseignez les champs :
+
+   - **Nombre de points pour le gagnant**,
+   - **Nombre de points pour le perdant**,
+   - **Nombre de points en cas d'égalité** et
+   - **Nombre de points en cas de score nul (0-0)**.
+
+8. Cochez la case **Autoriser l'égalité** si vous souhaitez que la rencontre/partie/match puisse se terminer par une égalité.
+
+9. Renseignez le **Score de l'équipe forfait** et le **Score de l'autre équipe en cas de forfait**.
+
+10. Cochez la case **Proclamer automatiquement la victoire en cas de forfait ou d'abandon** si vous souhaitez que la rencontre/partie/match soit automatiquement remportée par l'équipe adverse en cas de forfait ou d'abandon.
+
+#### Ajouter des sous-rencontres/parties/matchs
+
+Les sous-rencontres/parties/matchs permettent de définir des parties internes à une rencontre/partie/match.
+
+   !!! Example
+      Dans une rencontre de tennis, chaque match est constitué de plusieurs sets. Chaque set est une sous-rencontre de la rencontre principale.
+
+   ![Ajouter des sous-rencontres](../img/work-with-competition/design-competition/35.png)
+
+- Vous pouvez ajouter autant de sous-rencontres/parties/matchs que nécessaire en cliquant sur **Ajouter une sous-[rencontre/partie/match]**.
+- Vous pouvez ordonner les sous-rencontres/parties/matchs en utilisant les icônes ![icône monter](../img/work-with-competition/design-competition/36.png
+) et ![icône descendre](../img/work-with-competition/design-competition/37.png).
+- Vous pouvez supprimer une sous-rencontre/partie/match en cliquant sur l'icône ![icône supprimer](../img/work-with-competition/design-competition/38.png).
+- Vous pouvez cloner une sous-rencontre/partie/match en cliquant sur l'icône ![icône cloner](../img/work-with-competition/design-competition/39.png).
+- Pour chaque sous-rencontre/partie/match, vous pouvez définir les règles d'affectation et les règles de la partie comme pour une rencontre/partie/match principale en cliquant sur l'icône ![icône editer](../img/work-with-competition/design-competition/16.jpg).
+
+### Configurer une phase (de façon générale)
 
 1. Cliquez sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg) de la phase de qualification. Une fenêtre contextuelle s'ouvre.
 
-   ![Configuration phase qualification](../img/work-with-competition/design-competition/17.jpg)
+   ![Configuration phase qualification](../img/work-with-competition/design-competition/17.png)
 
-2. Remplissez les champs **Nom de la phase**, **Jouer contre chaque équipe**, **Nombre de tours** et **Publier le classement**.
+2. Remplissez les champs **Nom de la phase** ainsi que les paramètre spécifiques à la phase.
 
 3. Cliquez sur **Enregistrer**.
 
 4. Cliquez ensuite sur l'icône ![icône règle](../img/work-with-competition/design-competition/11.jpg). Une nouvelle fenêtre contextuelle s'ouvre.
+   ![Règles classement](../img/work-with-competition/design-competition/29.png)
 
-   ![Règles classement](../img/work-with-competition/design-competition/18.jpg)
-
-5. Dans cette fenêtre contextuelle, vous définissez les règles de classement des équipes dans votre phase. Vous pouvez avoir jusqu'à 4 règles de tri consécutives. En cochant la case **Cumuler le classement avec la précédente phase**, vous prenez en compte (additionnez) le nombre de victoires, les points pour et contre de la phase précédente pour déterminer le classement de la phase. Vous pouvez définir de ne prendre en compte que les X meilleurs matchs de chaque équipe pour le classement en cochant la case **Classer sur les meilleurs matchs**.
-
-   ![Règles de tri](../img/work-with-competition/design-competition/19.jpg)
+5. Dans cette fenêtre contextuelle, sélectionnez le modèle de rencontre que vous souhaitez utilsier dans cette phase.
 
 6. Cliquez sur **Enregistrer**. Une nouvelle fenêtre contextuelle s'ouvre.
+   ![Règles classement](../img/work-with-competition/design-competition/18.png)
 
-   ![Nouvelle fenêtre](../img/work-with-competition/design-competition/20.jpg)
+7. Dans cette fenêtre contextuelle, vous définissez les règles de classement des équipes dans votre phase. Vous pouvez avoir jusqu'à 4 règles de tri consécutives. En cochant la case **Cumuler le classement avec la précédente phase**, vous prenez en compte (additionnez) le nombre de victoires, les points pour et contre de la phase précédente pour déterminer le classement de la phase. Vous pouvez définir de ne prendre en compte que les X meilleurs matchs de chaque équipe pour le classement en cochant la case **Classer sur les meilleurs matchs**.
 
-7. Dans cet écran, vous définissez les règles des matchs. Remplissez les différents champs.
+   ![Règles de tri](../img/work-with-competition/design-competition/19.png)
 
-   ![Règles des matchs](../img/work-with-competition/design-competition/21.jpg)
+   !!! info
+        Les critères de classement disponibles sont les suivants :
+        - **Gagné (∑)** : Nombre de victoires
+        - **Perdu (∑)** : Nombre de défaites
+        - **Pour (∑)** : Somme des scores marqués
+        - **Contre (∑)** : Somme des scores encaissés
+        - **Diff. (∑)** : Différence entre les scores marqués et encaissés
+        - **Points (∑)** : Somme des points attribués selon le modèle de rencontre
+        - **Points + Bonus (∑)** : Somme des points attribués selon le modèle de rencontre, y compris les points bonus
+        - **Gagné (x̄)** : Moyenne des victoires
+        - **Perdu (x̄)** : Moyenne des défaites
+        - **Pour (x̄)** : Moyenne des scores marqués
+        - **Contre (x̄)** : Moyenne des scores encaissés
+        - **Diff. (x̄)** : Moyenne de la différence entre les scores marqués et encaissés
+        - **Points (x̄)** : Moyenne des points attribués selon le modèle de rencontre
+        - **Points + Bonus (x̄)** : Moyenne des points attribués selon le modèle de rencontre, y compris les points bonus
+        - **(Set/Mène/Manche/Donne/Tour) Gagné (∑)** : Somme des sets/mènes/manches/donnes/tours gagnés
+        - **(Set/Mène/Manche/Donne/Tour) Perdu (∑)** : Somme des sets/mènes/manches/donnes/tours perdus
+        - **(Set/Mène/Manche/Donne/Tour) Pour (∑)** : Somme des scores marqués dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Contre (∑)** : Somme des scores encaissés dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Diff. (∑)** : Somme de la différence entre les scores marqués et encaissés dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Points (∑)** : Somme des points attribués selon le modèle de rencontre dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Points + Bonus (∑)** : Somme des points attribués selon le modèle de rencontre, y compris les points bonus dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Gagné (x̄)** : Moyenne des sets/mènes/manches/donnes/tours gagnés
+        - **(Set/Mène/Manche/Donne/Tour) Perdu (x̄)** : Moyenne des sets/mènes/manches/donnes/tours perdus
+        - **(Set/Mène/Manche/Donne/Tour) Pour (x̄)** : Moyenne des scores marqués dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Contre (x̄)** : Moyenne des scores encaissés dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Diff. (x̄)** : Moyenne de la différence entre les scores marqués et encaissés dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Points (x̄)** : Moyenne des points attribués selon le modèle de rencontre dans les sets/mènes/manches/donnes/tours
+        - **(Set/Mène/Manche/Donne/Tour) Points + Bonus (x̄)** : Moyenne des points attribués selon le modèle de rencontre, y compris les points bonus dans les sets/mènes/manches/donnes/tours
 
 8. Cliquez sur **Enregistrer**.
+
+#### Définir les récompenses de la phase
+
+SmartContest permet de définir des récompenses pour les équipes à la fin d'une phase. Cette fonctionnalité est utile pour attribuer des prix ou des distinctions aux meilleures et aider les organisateurs à gérer les remises de récompenses de manière efficace grace à l'application mobile SmartContest.
+
+1. Sur la fenêtre de configuration de la phase, cliquez sur l'icône ![icône lots](../img/work-with-competition/design-competition/40.png). Une nouvelle fenêtre contextuelle s'ouvre.
+
+   ![Fenêtre lots](../img/work-with-competition/design-competition/41.png)
+
+2. Cliquez sur **Ajouter un lot**. Une nouvelle fenêtre contextuelle s'ouvre.
+   ![Ajouter lot](../img/work-with-competition/design-competition/42.png)
+
+3. Renseignez les champs **Nom du lot** puis **Enregistrer**.
+
+Vous pouvez aussi ordonner les lots en utilisant les icônes ![icône monter](../img/work-with-competition/design-competition/36.png
+) et ![icône descendre](../img/work-with-competition/design-competition/37.png) ou supprimer un lot en cliquant sur l'icône ![icône supprimer](../img/work-with-competition/design-competition/38.png).
 
 ### Tester la conception de la compétition
 
@@ -116,6 +273,9 @@ Il existe 3 types de phases :
 - **Les phases de qualification**  
   Les phases de qualification permettent de faire jouer des équipes entre elles dans cette phase. Elles fonctionnent par nombre de tours. Ainsi, si votre phase est configurée pour 3 tours, chaque équipe à l'intérieur de cette phase jouera 3 matchs. C'est le principe de la poule !
 
+- **Les phases de rencontre unique**  
+  Les phases de rencontre unique permettent de faire jouer des équipes entre elles une seule fois dans cette phase. C'est utile pour des phases où l'on souhaite que chaque équipe joue une seule fois contre une autre équipe, par exemple pour des matchs amicaux ou des rencontres de classement.
+
 - **Les phases éliminatoires**  
   Les phases éliminatoires permettent de procéder à l'élimination des équipes avec le principe de quarts, demies et finale. Les phases éliminatoires doivent avoir obligatoirement un nombre d'équipes bien précis, à savoir : 64, 32, 16, 8, 4 ou 2 équipes.
 
@@ -140,19 +300,97 @@ Une phase de qualification est équivalente à une poule. Les équipes se rencon
 Pour modifier les propriétés d'une phase de qualification, cliquez sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg).
 Une fenêtre contextuelle d'édition s'affiche :
 
-![Propriétés phase qualification](../img/work-with-competition/design-competition/27.jpg)
+![Propriétés phase qualification](../img/work-with-competition/design-competition/17.png)
 
 Vous pouvez alors :
 
-- modifier le **Nom de la phase**,
-- cocher la case **Jouer contre chaque équipe**,
+- Modifier le **Nom de la phase**,
+- Cocher la case **Jouer contre chaque équipe**,
   Dans ce cas, le nombre de matchs à jouer sera égal au nombre d'équipes dans la phase -1.
-- modifier le **Nombre de tours**,
+- Selectionnez le **Mode d'affectation des équipes**,
+
+  - **Aléatoire** : Les équipes sont affectées de manière aléatoire dans les rencontres.
+  - **Eviter les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en évitant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes de la même catégorie pourront s'affronter.
+  - **Interdire les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en interdisant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes seront exemptées de rencontre.
+
+- Modifier le **Nombre de tours**,
   Dans le cas où la case **Jouer contre chaque équipe** est cochée, ce sera alors le **Nombre de matchs par équipe**. Le nombre de matchs à jouer sera égal au nombre d'équipes dans la phase -1 multiplié par le **Nombre de matchs par équipe**.
   Exemple : pour 4 équipes, si le **Nombre de matchs par équipe** est défini à 3, chaque équipe jouera alors (4-1) × 3 = 9 matchs.
-- cocher la case **Publier le classement**
+- Cocher la case **Utilisé pour le classement général**,
+  En cochant cette case, les résultats de cette phase seront pris en compte dans le classement général de la compétition.
+  En cochant, il faudra définir la position de départ de cette phase dans le classement général.
+- Cocher la case **Publier le classement**
   En cochant cette case, vous rendez public le classement. L'effet est immédiat. Cela permet de ne pas rendre public le classement en cours et d'éviter des arrangements (peu sportifs) entre les équipes.
 
-#### Les règles
+### Phase de rencontre unique
+
+Une phase de rencontre unique permet de faire jouer des équipes entre elles une seule fois dans cette phase. C'est utile pour des phases où l'on souhaite que chaque équipe joue une seule fois contre une autre équipe, par exemple pour des matchs amicaux ou des rencontres de classement.
+
+#### Les propriétés
+
+Pour modifier les propriétés d'une phase de qualification, cliquez sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg).
+Une fenêtre contextuelle d'édition s'affiche :
+
+![Propriétés phase de rencontre unique](../img/work-with-competition/design-competition/43.png)
+
+Vous pouvez alors :
+
+- Modifier le **Nom de la phase**,
+- Selectionnez le **Mode d'affectation des équipes**,
+
+  - **Aléatoire** : Les équipes sont affectées de manière aléatoire dans la rencontre.
+  - **Le premier contre le dernier** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre la moins bonne équipe, la deuxième meilleure contre la deuxième moins bonne, etc. en se basant sur le classement de la phase précédente.
+  - **Le premier contre le milieu** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre une équipe du milieu de tableau, la deuxième meilleure contre la deuxième équipe du milieu de tableau, etc. en se basant sur le classement de la phase précédente.
+  - **Le premier contre le second** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre la deuxième meilleure équipe, la troisième contre la quatrième, etc. en se basant sur le classement de la phase précédente.
+  - **Eviter les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en évitant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes de la même catégorie pourront s'affronter.
+  - **Interdire les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en interdisant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes seront exemptées de rencontre.
+  - **Favoriser les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en favorisant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes de catégorie différentes pourront s'affronter.
+  - **Obliger les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en obligeant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes seront exemptées de rencontre.
+
+- Cocher la case **Utilisé pour le classement général**,
+  En cochant cette case, les résultats de cette phase seront pris en compte dans le classement général de la compétition.
+  En cochant, il faudra définir la position de départ de cette phase dans le classement général.
+- Cocher la case **Publier le classement**
+  En cochant cette case, vous rendez public le classement. L'effet est immédiat. Cela permet de ne pas rendre public le classement en cours et d'éviter des arrangements (peu sportifs) entre les équipes.
 
 ### Phase éliminatoire
+
+Une phase éliminatoire permet de procéder à l'élimination des équipes avec le principe de quarts, demies et finale. Les phases éliminatoires doivent avoir obligatoirement un nombre d'équipes bien précis, à savoir : 64, 32, 16, 8, 4 ou 2 équipes.
+
+#### Les propriétés
+
+Pour modifier les propriétés d'une phase de qualification, cliquez sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg).
+Une fenêtre contextuelle d'édition s'affiche :
+
+![Propriétés phase de rencontre unique](../img/work-with-competition/design-competition/44.png)
+
+Vous pouvez alors :
+
+- Modifier le **Nom de la phase**,
+- Cocher la case **Jouer la petite finale** si vous souhaitez qu'une rencontre pour la troisième place soit jouée entre les deux équipes éliminées en demi-finale.
+- Selectionnez le **Mode d'affectation des équipes**,
+
+  - **Aléatoire** : Les équipes sont affectées de manière aléatoire dans la rencontre.
+  - **Le premier contre le dernier** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre la moins bonne équipe, la deuxième meilleure contre la deuxième moins bonne, etc. en se basant sur le classement de la phase précédente.
+  - **Le premier contre le milieu** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre une équipe du milieu de tableau, la deuxième meilleure contre la deuxième équipe du milieu de tableau, etc. en se basant sur le classement de la phase précédente.
+  - **Le premier contre le second** : Les équipes sont affectées dans les rencontres en opposant la meilleure équipe contre la deuxième meilleure équipe, la troisième contre la quatrième, etc. en se basant sur le classement de la phase précédente.
+  - **Eviter les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en évitant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes de la même catégorie pourront s'affronter.
+  - **Interdire les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en interdisant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes seront exemptées de rencontre.
+  - **Favoriser les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en favorisant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes de catégorie différentes pourront s'affronter.
+  - **Obliger les matchs de la même catégorie** : Les équipes sont affectées dans les rencontres en obligeant que des équipes de la même catégorie s'affrontent.
+  Si ce n'est pas possible, des équipes seront exemptées de rencontre.
+
+- Cocher la case **Utilisé pour le classement général**,
+  En cochant cette case, les résultats de cette phase seront pris en compte dans le classement général de la compétition.
+  En cochant, il faudra définir la position de départ de cette phase dans le classement général.
+- Cocher la case **Publier le classement**
+  En cochant cette case, vous rendez public le classement. L'effet est immédiat. Cela permet de ne pas rendre public le classement en cours et d'éviter des arrangements (peu sportifs) entre les équipes.
