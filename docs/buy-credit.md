@@ -38,7 +38,7 @@
 
     ![Page paiement](img/buy-credit/9.png)
 
-11. Une fois le paiement effectué, vos crédits seront ajoutés à votre compte SmartContest. Vous pouvez vérifier votre solde de crédits dans la section **Crédits**de votre profil.
+11. Une fois le paiement effectué, vos crédits seront ajoutés à votre compte SmartContest. Vous pouvez vérifier votre solde de crédits dans la section **Crédits** de votre profil.
 
     ![Crédits ajoutés](img/buy-credit/10.png)
 

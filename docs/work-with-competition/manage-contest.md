@@ -23,33 +23,57 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
 1. Dans la liste des matchs, localisez celui pour lequel vous souhaitez saisir un score.
 
-    ![Liste des matchs](../img/work-with-competition/manage-contest/3.png)
+    ![Liste des matchs](../img/work-with-competition/manage-contest/15.png)
 
-2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyer sur la touche **Entrée** de votre clavier.
+2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyez sur la touche **Entrée** de votre clavier.
 
 3. Saisissez le score pour chaque équipe.
 
-    ![Saisie score](../img/work-with-competition/manage-contest/4.png)
+    ![Saisie score](../img/work-with-competition/manage-contest/16.png)
 
     Vous pouvez indiquer si l'une des 2 équipes était absente en cochant la case "Absent".
 
-    La saisie des scores est soumis au règles de saisie définit dans la configuration de votre compétition (cf. [configuration des scores](configure-score.md)). Cependant, vous pouvez déverrouiller la saisie en cliquant sur l'icone ![icône déverrouiller](../img/work-with-competition/manage-contest/5.png) pour forcer la saisie d'un score non conforme aux règles définies. Dans ce cas, vous devrez définir quel équipe est déclarée gagnante du match.
+    La saisie des scores est soumise aux règles de saisie définies dans la configuration de votre compétition (cf. [configuration des scores](configure-score.md)). Cependant, vous pouvez déverrouiller la saisie en cliquant sur l'icône ![icône déverrouiller](../img/work-with-competition/manage-contest/5.png) pour forcer la saisie d'un score non conforme aux règles définies. Dans ce cas, vous devrez définir quelle équipe est déclarée gagnante du match.
 
-    ![Définir l'équipe gagnante](../img/work-with-competition/manage-contest/6.png)
+    ![Définir l'équipe gagnante](../img/work-with-competition/manage-contest/17.png)
 
 4. Cliquez sur **Enregistrer** pour valider la saisie.
+
+### Saisie d'un score de le cas d'une rencontre avec des sous-matches
+
+Dans le cas où une rencontre est composée de plusieurs sous-matches (par exemple dans le cadre d'une compétition de tennis en double), la saisie des scores se fait en plusieurs étapes :
+
+1. Dans la liste des matchs, localisez celui pour lequel vous souhaitez saisir un score.
+
+    ![Liste des matchs](../img/work-with-competition/manage-contest/20.png)
+
+2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyez sur la touche **Entrée** de votre clavier.
+
+3. Saisissez le score pour chaque sous-match.
+
+    ![Saisie score sous-matches](../img/work-with-competition/manage-contest/21.png)
+
+4. Cliquez sur **Enregistrer** pour valider la saisie des sous-matches.
+
+Une fois tous les sous-matches saisis, vous revenez à la racine du match où vous pouvez voir le score global de la rencontre.
+
+![Liste sous-matches](../img/work-with-competition/manage-contest/22.png)
+
+Vous pouvez ainsi modifier le score global si nécessaire en cliquant sur ![icône déverrouiller](../img/work-with-competition/manage-contest/5.png) ou appuyez sur la touche **Entrée** de votre clavier.
+
+Vous pouvez aussi modifier la saisie d'un sous-match en cliquant sur le nom du sous-match dans le menu de navigation à gauche.
 
 ## Modifier la saisie d'un score
 
 1. Dans la liste des matchs, localisez celui pour lequel vous souhaitez modifier la saisie d'un score en prenant soin de modifier le filtre sur **Terminés**.
 
-    ![Liste des matchs](../img/work-with-competition/manage-contest/7.png)
+    ![Liste des matchs](../img/work-with-competition/manage-contest/18.png)
 
-2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyer sur la touche **Entrée** de votre clavier.
+2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) ou appuyez sur la touche **Entrée** de votre clavier.
 
 3. Modifiez le score pour chaque équipe.
 
-    ![Modification score](../img/work-with-competition/manage-contest/8.png)
+    ![Modification score](../img/work-with-competition/manage-contest/19.png)
 
 4. Cliquez sur **Enregistrer** pour valider la saisie.
 
@@ -60,7 +84,7 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
 1. Dans la liste des matchs, localisez celui pour lequel vous souhaitez modifier le terrain.
 
-    ![Liste des matchs](../img/work-with-competition/manage-contest/3.png)
+    ![Liste des matchs](../img/work-with-competition/manage-contest/15.png)
 
 2. Cliquez sur ![icône change](../img/work-with-competition/manage-contest/9.png)
 
@@ -77,7 +101,7 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
 1. Dans la liste des matchs, localisez celui pour lequel vous souhaitez modifier la planification.
 
-    ![Liste des matchs](../img/work-with-competition/manage-contest/3.png)
+    ![Liste des matchs](../img/work-with-competition/manage-contest/15.png)
 
 2. Cliquez sur ![icône calendrier](../img/work-with-competition/manage-contest/11.png)
 
@@ -97,7 +121,7 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
 1. Dans la liste des matchs, localisez celui que vous souhaitez supprimer.
 
-    ![Liste des matchs](../img/work-with-competition/manage-contest/3.png)
+    ![Liste des matchs](../img/work-with-competition/manage-contest/15.png)
 
 2. Cliquez sur ![icône suppression](../img/work-with-competition/manage-contest/12.png) pour supprimer le match.
 
@@ -106,6 +130,8 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 !!! note
     L'ajout d'un match n'est possible que si 2 équipes n'ont actuellement pas de match en cours.
 
+!!! warning Attention
+    Cette fonctionnalité n'est disponible que pour les rencontres en 1 contre 1.
 1. Accédez à la section "Matchs" dans le menu de gestion de votre compétition.
 
     ![Section Matchs](../img/work-with-competition/manage-contest/1.png)
