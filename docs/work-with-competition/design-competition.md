@@ -256,6 +256,7 @@ Vous pouvez aussi ordonner les lots en utilisant les icônes ![icône monter](..
 ### Gérer les configuration de classement
 
 SmartContest permet de configurer les règles de classement des équipes dans une phase. Vous pouvez définir :
+
 - les critères de classement, tels que le nombre de points, la différence de points, le nombre de victoires, etc.
 - les filtres de classement, tels que les phases à inclure ou exclure du classement.
 - les regroupements de classement, tels que regrouper les équipes par catégorie.

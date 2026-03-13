@@ -132,6 +132,7 @@ Vous pouvez aussi modifier la saisie d'un sous-match en cliquant sur le nom du s
 
 !!! warning Attention
     Cette fonctionnalité n'est disponible que pour les rencontres en 1 contre 1.
+
 1. Accédez à la section "Matchs" dans le menu de gestion de votre compétition.
 
     ![Section Matchs](../img/work-with-competition/manage-contest/1.png)

@@ -6,7 +6,7 @@ Dans cette section, vous apprendrez à gérer les affichages durant votre compé
 
 SmartContest vous permet d'imprimer différents éléments de votre compétition, tels que les listes d'équipes, les feuilles de match, les classements, etc.
 
-Accédez à la section **Impression** en cliquant sur l'icône ![Impression](../img/work-with-competition/manage-display/1.png). 
+Accédez à la section **Impression** en cliquant sur l'icône ![Impression](../img/work-with-competition/manage-display/1.png).
 Une fenetre s'ouvre avec les différents éléments que vous pouvez imprimer.
 
 ![Section Impression](../img/work-with-competition/manage-display/2.png)
@@ -67,7 +67,8 @@ Si vous choisissez d'imprimer les QR-codes de chaque équipe déjà enregistrée
 
 Si vous choisissez d'imprimer un lot de QR-codes, saisissez les numéro des QR-codes à imprimer puis cliquez sur **Valider** pour générer le PDF des QR-codes à imprimer.
 
-Par exemple, 
+Par exemple,
+
 - si vous saisissez "1-10", vous obtiendrez un PDF avec les QR-codes numérotés de 1 à 10 que vous pourrez ensuite associer aux équipes lors de leur enregistrement.
 - si vous saisissez "1-10;13;14", vous obtiendrez un PDF avec les QR-codes numérotés de 1 à 10 ainsi que les QR-codes numérotés 13 et 14 que vous pourrez ensuite associer aux équipes lors de leur enregistrement.
 
