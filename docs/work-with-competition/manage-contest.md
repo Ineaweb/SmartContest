@@ -16,8 +16,8 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
     ![Barre de recherche](../img/work-with-competition/manage-contest/2.png)
 
-    !!! tip Astuce
-        Si vous utilisez les QR code durant votre compétition, vous pouvez scanner le QR code d'une équipe pour retrouver rapidement le match en cours de cette équipe.
+!!! tip Astuce
+    Si vous utilisez les QR code durant votre compétition, vous pouvez scanner le QR code d'une équipe pour retrouver rapidement le match en cours de cette équipe.
 
 ## Saisir le score d'un match
 
