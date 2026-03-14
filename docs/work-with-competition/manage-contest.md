@@ -16,8 +16,8 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
     ![Barre de recherche](../img/work-with-competition/manage-contest/2.png)
 
-    !!! tip Astuce
-        Si vous utilisez les QR code durant votre compétition, vous pouvez scanner le QR code d'une équipe pour retrouver rapidement le match en cours de cette équipe.
+!!! tip Astuce
+    Si vous utilisez les QR code durant votre compétition, vous pouvez scanner le QR code d'une équipe pour retrouver rapidement le match en cours de cette équipe.
 
 ## Saisir le score d'un match
 
@@ -132,6 +132,7 @@ Vous pouvez aussi modifier la saisie d'un sous-match en cliquant sur le nom du s
 
 !!! warning Attention
     Cette fonctionnalité n'est disponible que pour les rencontres en 1 contre 1.
+
 1. Accédez à la section "Matchs" dans le menu de gestion de votre compétition.
 
     ![Section Matchs](../img/work-with-competition/manage-contest/1.png)

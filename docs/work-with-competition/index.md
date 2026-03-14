@@ -98,3 +98,4 @@ Sinon, votre compétition se clôture.
 - [Gérer les participants](manage-participant.md)
 - [Gérer les matchs](manage-contest.md)
 - [Concevoir une compétition](design-competition.md)
+- [Gérer les affichages](manage-display.md)
