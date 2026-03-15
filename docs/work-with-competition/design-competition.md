@@ -58,8 +58,15 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 
    ![Configuration règle](../img/work-with-competition/design-competition/14.jpg)
 
-!!! info
+7. Cliquez sur **Enregistrer**. La fenêtre contextuelle se referme et la nouvelle règle s'affiche dans la liste des règles du module de liaison.
+
+   ![Règle enregistrée](../img/work-with-competition/design-competition/15.jpg)
+
+8. Cliquez sur **Fermer**.
+
+!!! info "Les types de sélection"
       Il existe plusieurs types de sélection :
+
       - **Sélectionner tout le monde** : les équipes de la phase source passent toutes à la phase de destination.
       - **Sélectionner au hasard** : les équipes de la phase source sont sélectionnées au hasard pour passer à la phase de destination. Vous devrez alors préciser le nombre de d'équipes à prendre.
       - **Sélectionner par rapport au classement ascendant** : les équipes les mieux classées de la phase source passent à la phase de destination. Vous devrez alors préciser le nombre de d'équipes à prendre et le nombre d'équipes à passer.
@@ -70,12 +77,6 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
       *Astuce : Ce mode de sélection est utile pour faire du repêchage.*
       - **Sélectionner les éliminés** : Cette option est uniquement disponible pour les phases éliminatoires. Les équipes éliminées de la phase source passent à la phase de destination. Vous devrez alors préciser le nombre de d'équipes à prendre.
       - **Sélectionner par rapport à une catégorie** : les équipes de la phase source appartenant à une catégorie spécifique passent à la phase de destination. Vous devrez alors préciser la catégorie concernée et le nombre de d'équipes à prendre.
-
-7. Cliquez sur **Enregistrer**. La fenêtre contextuelle se referme et la nouvelle règle s'affiche dans la liste des règles du module de liaison.
-
-   ![Règle enregistrée](../img/work-with-competition/design-competition/15.jpg)
-
-8. Cliquez sur **Fermer**.
 
 ### Gérer les modèles des rencontres
 
@@ -104,17 +105,9 @@ Les règles d'affectation permettent de définir combien et comment les équipes
    ![Définir les règles d'affectation](../img/work-with-competition/design-competition/33.png)
 
 !!! example
-   Dans un concours de belote individuel (concours à la mélée), chaque rencontre/partie/match se joue entre 4 joueurs constitué de 2 groupes de 2 joueurs (2 équipes de 2 joueurs). Pour chaque rencontre/partie/match, les groupes de joueurs (équipes) sont affectées aléatoirement.
+      Dans un concours de belote individuel (concours à la mélée), chaque rencontre/partie/match se joue entre 4 joueurs constitué de 2 groupes de 2 joueurs (2 équipes de 2 joueurs). Pour chaque rencontre/partie/match, les groupes de joueurs (équipes) sont affectées aléatoirement.
 
 1. Sélectionnez le **Type d'affectation** dans la liste déroulante.
-
-!!! info
-      Les types d'affectation disponibles sont les suivants :
-
-      - **Aléatoire** : Les équipes sont affectées dans les groupes de manière aléatoire.
-      - **Conserver les affectations** : Cette option n'est opérationnel que pour les sous-rencontres/parties/matchs. Les équipes sont affectées dans les groupes en conservant les affectations de la rencontre/partie/match parente.
-      - **Par catégorie** : Les équipes sont affectées dans les groupes en fonction de leur catégorie.
-      - **Définit manuelle** : Les équipes sont affectées manuellement par l'organisateur avant le début de la rencontre/partie/match. (pas encore disponible)
 
 2. Renseignez le **Nombre d'équipes pour constituer un groupe**.
 
@@ -124,6 +117,14 @@ Les règles d'affectation permettent de définir combien et comment les équipes
 
 5. Cochez la case **Conserver sur la même [plaque/planche/table/terrain]** si vous souhaitez que les équipes restent sur la même aire de compétition. Cette option n'est opérationnel que pour les sous-rencontres/parties/matchs.
 
+!!! info "Les types d'affectation"
+      Les types d'affectation disponibles sont les suivants :
+
+      - **Aléatoire** : Les équipes sont affectées dans les groupes de manière aléatoire.
+      - **Conserver les affectations** : Cette option n'est opérationnel que pour les sous-rencontres/parties/matchs. Les équipes sont affectées dans les groupes en conservant les affectations de la rencontre/partie/match parente.
+      - **Par catégorie** : Les équipes sont affectées dans les groupes en fonction de leur catégorie.
+      - **Définit manuelle** : Les équipes sont affectées manuellement par l'organisateur avant le début de la rencontre/partie/match. (pas encore disponible)
+
 #### Définir les règles de la partie
 
 Les règles de la partie permettent de définir comment se déroule une rencontre/partie/match.
@@ -131,16 +132,6 @@ Les règles de la partie permettent de définir comment se déroule une rencontr
    ![Définir les règles de la partie](../img/work-with-competition/design-competition/34.png)
 
 1. Sélectionnez le **Type de sélection** dans la liste déroulante.
-
-!!! info
-      Les types de sélection disponibles sont les suivants :
-
-      - **Celui qui à le plus petit score** : La rencontre/partie/match est remportée par le groupe d'équipes ayant le plus petit score.
-      - **Celui qui à le plus grand score** : La rencontre/partie/match est remportée par le groupe d'équipes ayant le plus grand score.
-      - **celui qui est en dessous de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint un score en dessous d'une valeur définie.
-      - **Celui qui est au dessus de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint un score au dessus d'une valeur définie.
-      - **Le premier qui à atteint le score de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint en premier un score défini.
-      - **Le premier qui à atteint le score de ... avec 2 points d'écarts** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint en premier un score défini avec au moins 2 points d'écarts par rapport à l'autre groupe d'équipes.
 
 2. Cochez la case **Définir le total de point à distribuer** si vous souhaitez que la rencontre/partie/match ait un total de points fixe à se partager entre les groupes d'équipes.
 
@@ -151,9 +142,6 @@ Les règles de la partie permettent de définir comment se déroule une rencontr
 5. Si vous avez coché la case précédente, renseignez le **Score au début**.
 
 6. Cochez la case **Affecter le score au nombre de points** si vous souhaitez que le score de la rencontre/partie/match soit égal au nombre de points obtenus par chaque groupe d'équipes.
-
-!!! Example
-      Dans un concours de belote, le score est égal au nombre de points obtenus par chaque équipe.
 
 7. Si vous n'avez pas coché la case précédente, renseignez les champs :
 
@@ -168,12 +156,30 @@ Les règles de la partie permettent de définir comment se déroule une rencontr
 
 10. Cochez la case **Proclamer automatiquement la victoire en cas de forfait ou d'abandon** si vous souhaitez que la rencontre/partie/match soit automatiquement remportée par l'équipe adverse en cas de forfait ou d'abandon.
 
+!!! info "Les types de sélection"
+      Les types de sélection disponibles sont les suivants :
+
+      - **Celui qui à le plus petit score** : La rencontre/partie/match est remportée par le groupe d'équipes ayant le plus petit score.
+      - **Celui qui à le plus grand score** : La rencontre/partie/match est remportée par le groupe d'équipes ayant le plus grand score.
+      - **celui qui est en dessous de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint un score en dessous d'une valeur définie.
+      - **Celui qui est au dessus de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint un score au dessus d'une valeur définie.
+      - **Le premier qui à atteint le score de** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint en premier un score défini.
+      - **Le premier qui à atteint le score de ... avec 2 points d'écarts** : La rencontre/partie/match est remportée par le groupe d'équipes qui atteint en premier un score défini avec au moins 2 points d'écarts par rapport à l'autre groupe d'équipes.
+
+!!! Example "Concours de belote"
+      Dans un concours de belote, le score est égal au nombre de points obtenus par chaque équipe. La rencontre est remportée par l'équipe qui a le plus grand score.
+      Il faudra alors sélectionner le type de sélection **Celui qui à le plus grand score** et cocher la case **Affecter le score au nombre de points**.
+
+!!! Example "Tournoi de football"
+      Dans un tournoi de football, le score n'est pas égal au nombre de points obtenus par chaque équipe. La rencontre est remportée par l'équipe qui a le plus grand nombre de points. Par exemple, une victoire rapporte 3 points, une défaite rapporte 0 point et une égalité rapporte 1 point à chaque équipe.
+      Il faudra alors sélectionner le type de sélection **Celui qui à le plus grand score** et ne pas cocher la case **Affecter le score au nombre de points**. Il faudra alors renseigner les champs **Nombre de points pour le gagnant**, **Nombre de points pour le perdant** et **Nombre de points en cas d'égalité**.
+
 #### Ajouter des sous-rencontres/parties/matchs
 
 Les sous-rencontres/parties/matchs permettent de définir des parties internes à une rencontre/partie/match.
 
 !!! Example
-   Dans une rencontre de tennis, chaque match est constitué de plusieurs sets. Chaque set est une sous-rencontre de la rencontre principale.
+      Dans une rencontre de tennis, chaque match est constitué de plusieurs sets. Chaque set est une sous-rencontre de la rencontre principale.
 
    ![Ajouter des sous-rencontres](../img/work-with-competition/design-competition/35.png)
 
@@ -206,7 +212,9 @@ Les sous-rencontres/parties/matchs permettent de définir des parties internes �
 
    ![Critères de classement](../img/work-with-competition/design-competition/19.png)
 
-!!! info
+8. Cliquez sur **Enregistrer**.
+
+!!! info "Les critères de classement"
       Les critères de classement disponibles sont les suivants :
 
       - **Gagné (∑)** : Nombre de victoires
@@ -237,8 +245,6 @@ Les sous-rencontres/parties/matchs permettent de définir des parties internes �
       - **(Set/Mène/Manche/Donne/Tour) Diff. (x̄)** : Moyenne de la différence entre les scores marqués et encaissés dans les sets/mènes/manches/donnes/tours
       - **(Set/Mène/Manche/Donne/Tour) Points (x̄)** : Moyenne des points attribués selon le modèle de rencontre dans les sets/mènes/manches/donnes/tours
       - **(Set/Mène/Manche/Donne/Tour) Points + Bonus (x̄)** : Moyenne des points attribués selon le modèle de rencontre, y compris les points bonus dans les sets/mènes/manches/donnes/tours
-
-8. Cliquez sur **Enregistrer**.
 
 #### Définir les récompenses de la phase
 
@@ -279,13 +285,11 @@ Voici la procédure pour créer ou modifier une configuration de classement :
 
    Le **Périmètre** détermine le type de classement auquel la configuration s'applique.
    Il existe 4 types de classement :
+
    - **Classement sur une phase** : Classement des équipes à l'intérieur d'une phase.
    - **Classement général** : Classement de toutes les équipes de la compétition.
    - **Classement sur plusieurs phases** : Classement des équipes sur plusieurs phases.
    - **Classement personnalisé** : Classement des équipes selon des critères personnalisés définis par l'organisateur.
-
-!!! note
-      Le **Classement sur une phase** est associé à une unique phase. Ce classement ne peut être supprimé que si la phase associée est supprimée. Il n'est pas possible de créer un classement de type **Classement sur une phase** manuellement, il est automatiquement créé lors de la création d'une phase.
 
 3. Si vous avez sélectionné le type de classement **Classement personnalisé**, vous pouvez alors cocher **Activer le classement des catégories** ou **Activer le regroupement**.
 
@@ -298,6 +302,9 @@ Voici la procédure pour créer ou modifier une configuration de classement :
 4. Configurez les critères de classement et les filtres de classement selon vos besoins.
 
 5. Cliquez sur **Enregistrer**.
+
+!!! note
+      Le **Classement sur une phase** est associé à une unique phase. Ce classement ne peut être supprimé que si la phase associée est supprimée. Il n'est pas possible de créer un classement de type **Classement sur une phase** manuellement, il est automatiquement créé lors de la création d'une phase.
 
 #### Définir les critères de classement
 
@@ -312,7 +319,10 @@ Les critères de classement permettent de définir les règles de classement des
 
 2. Sélectionnez le critère (ex : Points (∑)) dans la liste déroulante.
 
-!!! info
+3. Sélectionnez l'ordre de classement (ascendant ou descendant) pour ce critère.
+   Par exemple, pour le critère **Points (∑)**, vous pouvez sélectionner un ordre de classement descendant pour que les équipes avec le plus de points soient classées en premier.
+
+!!! info "Les critères de classement"
       Les critères de classement disponibles sont les suivants :
 
       - **Gagné (∑)** : Nombre de victoires
@@ -361,8 +371,21 @@ Les critères de classement permettent de définir les règles de classement des
 
       Cliquez sur **Enregistrer** pour enregistrer l'ordre des phases.
 
-3. Sélectionnez l'ordre de classement (ascendant ou descendant) pour ce critère.
-   Par exemple, pour le critère **Points (∑)**, vous pouvez sélectionner un ordre de classement descendant pour que les équipes avec le plus de points soient classées en premier.
+!!! example "Tournoi de football"
+      Dans un tournoi de football avec une phase de poule suivie d'une phase éliminatoire, vous pouvez définir les critères de classement de la phase de poule en sélectionnant comme premier critère 
+
+      1. le nombre de points (Points (∑)) avec un ordre de classement descendant, puis comme deuxième critère 
+      2. la différence de points (Diff. (∑)) avec un ordre de classement descendant, puis comme troisième critère 
+      3. le nombre de buts pour (Pour (∑)) avec un ordre de classement descendant, et enfin comme quatrième critère 
+      4. le nombre de buts contre (Contre (∑)) avec un ordre de classement ascendant.
+
+!!! example "Tournoi de tennis"
+      Dans un tournoi de tennis avec une phase de poule suivie d'une phase éliminatoire, vous pouvez définir les critères de classement de la phase de poule en sélectionnant comme premier critère 
+
+      1. le nombre de victoires (Gagné (∑)) avec un ordre de classement descendant, puis comme deuxième critère 
+      2. le nombre de sets pour (Pour (∑)) avec un ordre de classement descendant, et enfin comme quatrième critère 
+      3. le nombre de sets contre (Contre (∑)) avec un ordre de classement ascendant.
+      4. le nombre de jeux pour (Set Pour (∑)) avec un ordre de classement descendant.
 
 #### Définir les filtres de classement
 
@@ -374,26 +397,26 @@ Les filtres de classement permettent de définir un sous-ensemble de données à
 
 2. Sélectionnez le **Type de filtre** dans la liste déroulante.
 
-!!! info
+3. Sélectionnez l'opérateur du filtre.
+
+4. Sélectionnez la valeur du filtre en fonction du type de filtre sélectionné.
+   Par exemple, si vous avez sélectionné le type de filtre **Par phases**, vous pouvez sélectionner les phases à inclure ou exclure du classement.
+
+!!! info "Les types de filtre"
       Les types de filtre disponibles sont les suivants :
 
       - **Par phases** : Permet de sélectionner les phases à inclure ou exclure du classement.
       - **Par catégories** : Permet de sélectionner les catégories à inclure ou exclure du classement.
       - **Par état** : Permet de slélectionner les états des phases à inclure ou exclure du classement (en cours, terminé, à venir).
-      - **Par forfait** : Permet de sélectionner les équipes forfaits à inclure ou exclure du classement.
+      - **Par forfait** : Permet de sélectionner les équipes forfaits à inclure ou exclure du classement.   
 
-3. Sélectionnez l'opérateur du filtre.
-
-!!! info
+!!! info "Les opérateurs de filtre"
       Les opérateurs de filtre disponibles sont les suivants :
 
       - **Egale** : Seules les données correspondant exactement au critère de filtre seront incluses dans le classement.
       - **Différent** : Les données correspondant exactement au critère de filtre seront exclues du classement.
       - **Inclue** : Seules les données correspondant au critère de filtre seront incluses dans le classement.
-      - **Exclue** : Les données correspondant au critère de filtre seront exclues du classement.
-
-4. Sélectionnez la valeur du filtre en fonction du type de filtre sélectionné.
-   Par exemple, si vous avez sélectionné le type de filtre **Par phases**, vous pouvez sélectionner les phases à inclure ou exclure du classement.
+      - **Exclue** : Les données correspondant au critère de filtre seront exclues du classement.      
 
 ### Tester la conception de la compétition
 
