@@ -8,16 +8,16 @@
 
 3. Remplissez le formulaire d'inscription avec vos informations.
 
-   ![Formulaire d'inscription](img/create-account/2.png)
+      ![Formulaire d'inscription](img/create-account/2.png)
 
 4. Cliquez sur "Créer mon compte".
 
-   ![Créer mon compte](img/create-account/3.png)
+      ![Créer mon compte](img/create-account/3.png)
 
 5. Vérifiez votre boîte mail et cliquez sur le lien de confirmation.
 
-   ![Confirmation email](img/create-account/4.png)
+      ![Confirmation email](img/create-account/4.png)
 
 6. Votre compte est maintenant créé ! Vous pouvez vous connecter.
 
-   ![Compte créé](img/create-account/5.png)
+      ![Compte créé](img/create-account/5.png)

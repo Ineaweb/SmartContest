@@ -13,7 +13,7 @@ Il permet de définir les règles de chaque phase.
 1. Créez ou ouvrez une compétition.
 2. Cliquez sur **Détails de la compétition**
 
-   ![Détails de la compétition](../img/work-with-competition/design-competition/1.jpg)
+      ![Détails de la compétition](../img/work-with-competition/design-competition/1.jpg)
 
 ## Démarrage rapide
 
@@ -24,43 +24,43 @@ Avant toute chose, pour que votre concours fonctionne, il faut une phase d'enreg
 1. Réalisez un glisser-déposer de l'icône ![icône phase enregistrement](../img/work-with-competition/design-competition/2.jpg) sur la zone centrale.
 2. Renseignez le nom de cette phase dans la fenêtre contextuelle puis cliquez sur **Enregistrer**.
 
-   ![Enregistrer phase](../img/work-with-competition/design-competition/3.jpg)
+      ![Enregistrer phase](../img/work-with-competition/design-competition/3.jpg)
 
 ### Ajout d'une phase de qualification ou d'éliminatoire
 
 1. Pour ajouter une phase de qualification, réalisez un glisser-déposer de l'icône ![icône phase qualif](../img/work-with-competition/design-competition/4.jpg) sur la zone centrale. Vous pouvez aussi ajouter une phase d'éliminatoire en réalisant un glisser-déposer de l'icône ![icône phase éliminatoire](../img/work-with-competition/design-competition/5.jpg) sur la zone centrale.
 
-   ![Phase qualification ou éliminatoire](../img/work-with-competition/design-competition/6.jpg)
+      ![Phase qualification ou éliminatoire](../img/work-with-competition/design-competition/6.jpg)
 
 ### Ajout d'un module de liaison
 
 1. Pour permettre aux équipes de passer de la phase d'enregistrement à la phase de qualification, il vous faut ajouter un module de liaison en réalisant un glisser-déposer de l'icône ![icône module liaison](../img/work-with-competition/design-competition/7.jpg) sur la zone centrale.
 
-   ![Module de liaison](../img/work-with-competition/design-competition/8.jpg)
+      ![Module de liaison](../img/work-with-competition/design-competition/8.jpg)
 
 2. Avec la souris, cliquez sur une ancre de la phase d'enregistrement et maintenez enfoncé jusqu'à l'ancre du module de liaison.
 
-   ![Ancrage phase](../img/work-with-competition/design-competition/9.jpg)
+      ![Ancrage phase](../img/work-with-competition/design-competition/9.jpg)
 
 3. Reproduisez l'opération pour lier le module de liaison et la phase de qualification.
 
-   ![Liaison phases](../img/work-with-competition/design-competition/10.jpg)
+      ![Liaison phases](../img/work-with-competition/design-competition/10.jpg)
 
 4. Définissez les règles pour passer d'une phase à l'autre en cliquant sur l'icône ![icône règle](../img/work-with-competition/design-competition/11.jpg) du module de liaison. Une fenêtre contextuelle s'ouvre.
 
-   ![Règles liaison](../img/work-with-competition/design-competition/12.jpg)
+      ![Règles liaison](../img/work-with-competition/design-competition/12.jpg)
 
 5. Cliquez sur **Ajouter une règle**. Une nouvelle fenêtre contextuelle s'ouvre.
 
-   ![Ajouter règle](../img/work-with-competition/design-competition/13.jpg)
+      ![Ajouter règle](../img/work-with-competition/design-competition/13.jpg)
 
 6. Remplissez les champs **Type de sélection**, **Source** et **Destination**. Vous pouvez définir aussi le **Nombre d'équipes à prendre**, le **Nombre d'équipes à passer** et la **catégorie** si nécessaire.
 
-   ![Configuration règle](../img/work-with-competition/design-competition/14.jpg)
+      ![Configuration règle](../img/work-with-competition/design-competition/14.jpg)
 
 7. Cliquez sur **Enregistrer**. La fenêtre contextuelle se referme et la nouvelle règle s'affiche dans la liste des règles du module de liaison.
 
-   ![Règle enregistrée](../img/work-with-competition/design-competition/15.jpg)
+      ![Règle enregistrée](../img/work-with-competition/design-competition/15.jpg)
 
 8. Cliquez sur **Fermer**.
 
@@ -85,13 +85,13 @@ SmartContest permet de configurer finement le comportement des rencontres/partie
 Pour simplifier la gestion des rencontres/parties/matchs, SmartContest utilise des modèles de rencontre.
 Pour ajouter, modifier ou supprimer un modèle de rencontre, cliquez sur ![icône rencontre modèle](../img/work-with-competition/design-competition/30.png) **Gérer les modèles des [rencontres/parties/matchs]**.
 
-   ![Configuration phase qualification](../img/work-with-competition/design-competition/31.png)
+![Configuration phase qualification](../img/work-with-competition/design-competition/31.png)
 
 Voici la procédure pour créer ou modifier un modèle de rencontre :
 
 1. Cliquez sur **Ajouter un modèle de [rencontre/partie/match]** ou sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg) pour modifier un modèle existant. Une fenêtre contextuelle s'ouvre.
 
-   ![Modèle rencontre](../img/work-with-competition/design-competition/32.png)
+      ![Modèle rencontre](../img/work-with-competition/design-competition/32.png)
 
 2. Remplissez les champs **Nom** et **Style de partie**.
 
@@ -102,7 +102,7 @@ Voici la procédure pour créer ou modifier un modèle de rencontre :
 
 Les règles d'affectation permettent de définir combien et comment les équipes sont affectées dans une rencontre/partie/match.
 
-   ![Définir les règles d'affectation](../img/work-with-competition/design-competition/33.png)
+![Définir les règles d'affectation](../img/work-with-competition/design-competition/33.png)
 
 !!! example
       Dans un concours de belote individuel (concours à la mélée), chaque rencontre/partie/match se joue entre 4 joueurs constitué de 2 groupes de 2 joueurs (2 équipes de 2 joueurs). Pour chaque rencontre/partie/match, les groupes de joueurs (équipes) sont affectées aléatoirement.
@@ -129,7 +129,7 @@ Les règles d'affectation permettent de définir combien et comment les équipes
 
 Les règles de la partie permettent de définir comment se déroule une rencontre/partie/match.
 
-   ![Définir les règles de la partie](../img/work-with-competition/design-competition/34.png)
+![Définir les règles de la partie](../img/work-with-competition/design-competition/34.png)
 
 1. Sélectionnez le **Type de sélection** dans la liste déroulante.
 
@@ -181,7 +181,7 @@ Les sous-rencontres/parties/matchs permettent de définir des parties internes �
 !!! Example
       Dans une rencontre de tennis, chaque match est constitué de plusieurs sets. Chaque set est une sous-rencontre de la rencontre principale.
 
-   ![Ajouter des sous-rencontres](../img/work-with-competition/design-competition/35.png)
+![Ajouter des sous-rencontres](../img/work-with-competition/design-competition/35.png)
 
 - Vous pouvez ajouter autant de sous-rencontres/parties/matchs que nécessaire en cliquant sur **Ajouter une sous-[rencontre/partie/match]**.
 - Vous pouvez ordonner les sous-rencontres/parties/matchs en utilisant les icônes ![icône monter](../img/work-with-competition/design-competition/36.png
@@ -194,23 +194,25 @@ Les sous-rencontres/parties/matchs permettent de définir des parties internes �
 
 1. Cliquez sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg) de la phase de qualification. Une fenêtre contextuelle s'ouvre.
 
-   ![Configuration phase qualification](../img/work-with-competition/design-competition/17.png)
+      ![Configuration phase qualification](../img/work-with-competition/design-competition/17.png)
 
 2. Remplissez les champs **Nom de la phase** ainsi que les paramètre spécifiques à la phase.
 
 3. Cliquez sur **Enregistrer**.
 
 4. Cliquez ensuite sur l'icône ![icône règle](../img/work-with-competition/design-competition/11.jpg). Une nouvelle fenêtre contextuelle s'ouvre.
-   ![Règles classement](../img/work-with-competition/design-competition/29.png)
+
+      ![Règles classement](../img/work-with-competition/design-competition/29.png)
 
 5. Dans cette fenêtre contextuelle, sélectionnez le modèle de rencontre que vous souhaitez utiliser dans cette phase.
 
 6. Cliquez sur **Enregistrer**. Une nouvelle fenêtre contextuelle s'ouvre.
-   ![Règles classement](../img/work-with-competition/design-competition/18.png)
+
+      ![Règles classement](../img/work-with-competition/design-competition/18.png)
 
 7. Dans cette fenêtre contextuelle, vous définissez les critères de classement des équipes dans votre phase. Vous pouvez avoir autant de critères mais seules les 4 premiers seront visibles sur les affichages. En cochant la case **Cumuler le classement avec la précédente phase**, vous prenez en compte (additionnez) le nombre de victoires, les points pour et contre de la phase précédente pour déterminer le classement de la phase.
 
-   ![Critères de classement](../img/work-with-competition/design-competition/19.png)
+      ![Critères de classement](../img/work-with-competition/design-competition/19.png)
 
 8. Cliquez sur **Enregistrer**.
 
@@ -252,10 +254,11 @@ SmartContest permet de définir des récompenses pour les équipes à la fin d'u
 
 1. Sur la fenêtre de configuration de la phase, cliquez sur l'icône ![icône lots](../img/work-with-competition/design-competition/40.png). Une nouvelle fenêtre contextuelle s'ouvre.
 
-   ![Fenêtre lots](../img/work-with-competition/design-competition/41.png)
+      ![Fenêtre lots](../img/work-with-competition/design-competition/41.png)
 
 2. Cliquez sur **Ajouter un lot**. Une nouvelle fenêtre contextuelle s'ouvre.
-   ![Ajouter lot](../img/work-with-competition/design-competition/42.png)
+
+      ![Ajouter lot](../img/work-with-competition/design-competition/42.png)
 
 3. Renseignez les champs **Nom du lot** puis **Enregistrer**.
 
@@ -273,13 +276,13 @@ SmartContest permet de configurer les règles de classement des équipes dans un
 
 Pour ajouter, modifier ou supprimer une configuration de classement, cliquez sur ![icône classement](../img/work-with-competition/design-competition/45.png) **Gérer les configurations de classement**.
 
-   ![Configuration des classements](../img/work-with-competition/design-competition/46.png)
+![Configuration des classements](../img/work-with-competition/design-competition/46.png)
 
 Voici la procédure pour créer ou modifier une configuration de classement :
 
 1. Cliquez sur **Ajouter un classement** ou sur l'icône ![icône édition](../img/work-with-competition/design-competition/16.jpg) pour modifier un classement existant. Une fenêtre contextuelle s'ouvre.
 
-   ![Config classement](../img/work-with-competition/design-competition/47.png)
+      ![Config classement](../img/work-with-competition/design-competition/47.png)
 
 2. Remplissez les champs **Nom**, **Résumé** et **Périmètre**.
 
@@ -293,7 +296,7 @@ Voici la procédure pour créer ou modifier une configuration de classement :
 
 3. Si vous avez sélectionné le type de classement **Classement personnalisé**, vous pouvez alors cocher **Activer le classement des catégories** ou **Activer le regroupement**.
 
-   ![options classement](../img/work-with-competition/design-competition/48.png)
+      ![options classement](../img/work-with-competition/design-competition/48.png)
 
    - L'option **Activer le classement des catégories** permet d'avoir un classement de chaque catégorie. Par exemple, dans un tournoi inter-club, vous pourrez avoir un classement des clubs en plus du classement général.
 
@@ -310,7 +313,7 @@ Voici la procédure pour créer ou modifier une configuration de classement :
 
 Les critères de classement permettent de définir les règles de classement des équipes (ou des catégories). Vous pouvez définir autant de critères que nécessaire, mais seuls les 4 premiers seront visibles sur les affichages.
 
-   ![Définir les critères de classement](../img/work-with-competition/design-competition/19.png)
+![Définir les critères de classement](../img/work-with-competition/design-competition/19.png)
 
 !!! note
       Lors du classement des équipes, les critères sont appliqués dans l'ordre défini. Par exemple, si vous avez défini comme premier critère le nombre de points, les équipes seront d'abord classées par nombre de points. En cas d'égalité sur ce critère, le deuxième critère sera appliqué pour départager les équipes, et ainsi de suite.
@@ -372,7 +375,7 @@ Les critères de classement permettent de définir les règles de classement des
       Cliquez sur **Enregistrer** pour enregistrer l'ordre des phases.
 
 !!! example "Tournoi de football"
-      Dans un tournoi de football avec une phase de poule suivie d'une phase éliminatoire, vous pouvez définir les critères de classement de la phase de poule en sélectionnant comme premier critère 
+      Dans un tournoi de football avec une phase de poule suivie d'une phase éliminatoire, vous pouvez définir les critères de classement de la phase de poule en sélectionnant comme premier critère
 
       1. le nombre de points (Points (∑)) avec un ordre de classement descendant, puis comme deuxième critère 
       2. la différence de points (Diff. (∑)) avec un ordre de classement descendant, puis comme troisième critère 
@@ -380,7 +383,7 @@ Les critères de classement permettent de définir les règles de classement des
       4. le nombre de buts contre (Contre (∑)) avec un ordre de classement ascendant.
 
 !!! example "Tournoi de tennis"
-      Dans un tournoi de tennis avec une phase de poule suivie d'une phase éliminatoire, vous pouvez définir les critères de classement de la phase de poule en sélectionnant comme premier critère 
+      Dans un tournoi de tennis avec une phase de poule suivie d'une phase éliminatoire, vous pouvez définir les critères de classement de la phase de poule en sélectionnant comme premier critère
 
       1. le nombre de victoires (Gagné (∑)) avec un ordre de classement descendant, puis comme deuxième critère 
       2. le nombre de sets pour (Pour (∑)) avec un ordre de classement descendant, et enfin comme quatrième critère 
@@ -393,7 +396,7 @@ Les filtres de classement permettent de définir un sous-ensemble de données à
 
 1. Cliquez sur **Ajouter un filtre** pour ajouter un filtre de classement dans la liste des filtres de classement.
 
-   ![Ajouter filtre](../img/work-with-competition/design-competition/51.png)
+      ![Ajouter filtre](../img/work-with-competition/design-competition/51.png)
 
 2. Sélectionnez le **Type de filtre** dans la liste déroulante.
 
@@ -407,7 +410,7 @@ Les filtres de classement permettent de définir un sous-ensemble de données à
 
       - **Par phases** : Permet de sélectionner les phases à inclure ou exclure du classement.
       - **Par catégories** : Permet de sélectionner les catégories à inclure ou exclure du classement.
-      - **Par état** : Permet de slélectionner les états des phases à inclure ou exclure du classement (en cours, terminé, à venir).
+      - **Par état** : Permet de sélectionner les états des phases à inclure ou exclure du classement (en cours, terminé, à venir).
       - **Par forfait** : Permet de sélectionner les équipes forfaits à inclure ou exclure du classement.   
 
 !!! info "Les opérateurs de filtre"
@@ -422,15 +425,15 @@ Les filtres de classement permettent de définir un sous-ensemble de données à
 
 1. Cliquez sur **Tester la compétition**.
 
-   ![Tester compétition](../img/work-with-competition/design-competition/22.jpg)
+      ![Tester compétition](../img/work-with-competition/design-competition/22.jpg)
 
 2. Attendez la fin du traitement. Une fenêtre contextuelle s'ouvre alors et vous informe si votre conception de concours est valide ou non. Vous avez une indication sur le nombre maximum et minimum géré par votre conception de concours.
 
-   ![Résultat test](../img/work-with-competition/design-competition/23.jpg)
+      ![Résultat test](../img/work-with-competition/design-competition/23.jpg)
 
 3. Vous pouvez aussi vérifier les résultats de la simulation sur chacune des phases en cliquant sur l'icône ![icône test](../img/work-with-competition/design-competition/24.jpg). Une fenêtre contextuelle s'ouvre et affiche les informations sur le **Nombre d'équipes**, le **Nombre de terrains** et le **Nombre de matchs** nécessaires.
 
-   ![Détails simulation](../img/work-with-competition/design-competition/25.jpg)
+      ![Détails simulation](../img/work-with-competition/design-competition/25.jpg)
 
 ## Les phases
 

@@ -18,15 +18,15 @@ Vous pouvez :
 
 1. Accédez à la section "Terrains" dans le menu de gestion de votre compétition.
 
-   ![Section Terrains](../img/work-with-competition/manage-area/1.png)
+      ![Section Terrains](../img/work-with-competition/manage-area/1.png)
 
 2. Cliquez sur le bouton "Ajouter un terrain" pour créer une nouvelle aire de compétition.
 
-   ![Ajouter un terrain](../img/work-with-competition/manage-area/2.png)
+      ![Ajouter un terrain](../img/work-with-competition/manage-area/2.png)
 
 3. Remplissez le nom et cliquez sur "Enregistrer".
 
-   ![Enregistrer terrain](../img/work-with-competition/manage-area/3.png)
+      ![Enregistrer terrain](../img/work-with-competition/manage-area/3.png)
 
 ## Activer ou désactiver une aire de compétition
 
@@ -35,13 +35,13 @@ Vous pouvez :
 
 1. Dans la liste des terrains, localisez celui que vous souhaitez activer ou désactiver.
 
-   ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
+      ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
 
 2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) pour modifier les paramètres de l'aire de compétition.
 
 3. Cochez ou décochez la case "Actif" selon vos besoins, puis cliquez sur "Enregistrer".
 
-   ![Activer terrain](../img/work-with-competition/manage-area/3.png)
+      ![Activer terrain](../img/work-with-competition/manage-area/3.png)
 
 ## Créer une série d'aires de compétition
 
@@ -49,15 +49,15 @@ Dans certains cas, il peut être utile de créer plusieurs aires de compétition
 
 1. Accédez à la section "Terrains" dans le menu de gestion de votre compétition.
 
-   ![Section Terrains](../img/work-with-competition/manage-area/1.png)
+      ![Section Terrains](../img/work-with-competition/manage-area/1.png)
 
 2. Cliquez sur le bouton "Ajouter plusieurs terrains".
 
-   ![Ajouter plusieurs terrains](../img/work-with-competition/manage-area/5.png)
+      ![Ajouter plusieurs terrains](../img/work-with-competition/manage-area/5.png)
 
 3. Saisissez le nombre de terrains et la règle de nommage à utiliser.
 
-   ![Règle de nommage](../img/work-with-competition/manage-area/6.png)
+      ![Règle de nommage](../img/work-with-competition/manage-area/6.png)
 
 4. Cliquez sur "Enregistrer" pour créer les terrains.
 
@@ -71,21 +71,21 @@ Dans certains cas, il peut être utile de créer plusieurs aires de compétition
 
 1. Dans la liste des terrains, localisez celui pour lequel vous souhaitez définir des plages horaires.
 
-   ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
+      ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
 
 2. Cliquez sur ![icône édition](../img/work-with-competition/design-competition/16.jpg) pour modifier les paramètres de l'aire de compétition.
 
 3. Ajoutez une plage horaire en cliquant sur "Ajouter un créneau".
 
-   ![Ajouter un créneau](../img/work-with-competition/manage-area/7.png)
+      ![Ajouter un créneau](../img/work-with-competition/manage-area/7.png)
 
 4. Définissez l'heure de début et de fin du créneau, puis cliquez sur "Enregistrer".
 
-   ![Définir créneau](../img/work-with-competition/manage-area/8.png)
+      ![Définir créneau](../img/work-with-competition/manage-area/8.png)
 
 5. Répétez les étapes 3 et 4 pour ajouter d'autres plages horaires si nécessaire.
 
-   ![Plages horaires multiples](../img/work-with-competition/manage-area/9.png)
+      ![Plages horaires multiples](../img/work-with-competition/manage-area/9.png)
 
 6. Une fois toutes les plages horaires définies, cliquez sur "Enregistrer" pour sauvegarder les modifications de l'aire de compétition.
 
@@ -95,7 +95,7 @@ Dans certains cas, il peut être utile de dupliquer une aire de compétition exi
 
 1. Dans la liste des terrains, localisez celui que vous souhaitez dupliquer.
 
-   ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
+      ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
 
 2. Cliquez sur ![icône dupliquer](../img/work-with-competition/manage-area/10.png) pour dupliquer l'aire de compétition.
 
@@ -103,6 +103,6 @@ Dans certains cas, il peut être utile de dupliquer une aire de compétition exi
 
 1. Dans la liste des terrains, localisez celui que vous souhaitez supprimer.
 
-   ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
+      ![Liste des terrains](../img/work-with-competition/manage-area/4.png)
 
 2. Cliquez sur ![icône supprimer](../img/work-with-competition/manage-area/11.png) pour supprimer l'aire de compétition.

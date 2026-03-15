@@ -67,10 +67,10 @@ Si vous choisissez d'imprimer les QR-codes de chaque équipe déjà enregistrée
 
 Si vous choisissez d'imprimer un lot de QR-codes, saisissez les numéro des QR-codes à imprimer puis cliquez sur **Valider** pour générer le PDF des QR-codes à imprimer.
 
-Par exemple,
+!!! example
 
-- si vous saisissez "1-10", vous obtiendrez un PDF avec les QR-codes numérotés de 1 à 10 que vous pourrez ensuite associer aux équipes lors de leur enregistrement.
-- si vous saisissez "1-10;13;14", vous obtiendrez un PDF avec les QR-codes numérotés de 1 à 10 ainsi que les QR-codes numérotés 13 et 14 que vous pourrez ensuite associer aux équipes lors de leur enregistrement.
+    - si vous saisissez "1-10", vous obtiendrez un PDF avec les QR-codes numérotés de 1 à 10 que vous pourrez ensuite associer aux équipes lors de leur enregistrement.
+    - si vous saisissez "1-10;13;14", vous obtiendrez un PDF avec les QR-codes numérotés de 1 à 10 ainsi que les QR-codes numérotés 13 et 14 que vous pourrez ensuite associer aux équipes lors de leur enregistrement.
 
 ![Lot de QR-codes](../img/work-with-competition/manage-display/13.png)
 
@@ -99,7 +99,7 @@ Une deuxième fenêtre s'ouvrira automatiquement sur votre écran secondaire ou 
 L'affichage dynamique se met à jour automatiquement en temps réel pour refléter les changements dans votre compétition, tels que les scores des matchs, les classements, les équipes, etc.
 Vous pouvez afficher :
 
-- Les équipes enregistrés
+- Les équipes enregistrées
 - Les matchs en cours
 - L'organisation de la compétition
 - Les classements
@@ -108,12 +108,15 @@ Vous pouvez afficher :
 Vous pouvez personnaliser l'affichage dynamique en configurant :
 
 - La vitesse de défilement des éléments affichés.
+
     ![Vitesse de défilement](../img/work-with-competition/manage-display/17.png)
 
 - Le zoom de l'affichage.
+
     ![Zoom de l'affichage](../img/work-with-competition/manage-display/18.png)
 
 - Les couleurs de l'affichage.
+
     ![Couleurs de l'affichage](../img/work-with-competition/manage-display/19.png)
 
 Vous pouvez aussi :
@@ -158,4 +161,4 @@ Cliquez sur le bouton **Afficher les [matchs/parties/rencontres] en cours** pour
 
 2. Cliquez sur le bouton **Afficher les sponsors** pour afficher la liste des sponsors de votre compétition.
 
-![Affichage des sponsors](../img/work-with-competition/manage-display/25.png)
+    ![Affichage des sponsors](../img/work-with-competition/manage-display/25.png)
