@@ -4,7 +4,7 @@
 
 2. Cliquez sur le bouton **S'inscrire** en haut à droite de la page.
 
-   ![S'inscrire](img/create-account/1.png)
+      ![S'inscrire](img/create-account/1.png)
 
 3. Remplissez le formulaire d'inscription avec vos informations.
 
