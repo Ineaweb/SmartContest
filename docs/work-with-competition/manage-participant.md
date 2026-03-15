@@ -101,7 +101,7 @@ L'étape de pré-inscription permet aux participants potentiels de manifester le
 Le jour de l'ouverture des inscriptions (lors du pointage), vous pouvez convertir les pré-inscriptions en inscriptions réelles.
 
 !!! note
-   Cette fonctionnalité est disponible uniquement si vous avez démarré la phase d'enregistrement des équipes.
+      Cette fonctionnalité est disponible uniquement si vous avez démarré la phase d'enregistrement des équipes.
 
 1. Dans la liste des pré-inscriptions, localisez celle que vous souhaitez inscrire.
 

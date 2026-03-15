@@ -32,8 +32,7 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
 
       ![Informations évènement](img/create-competition/4.png)
 
-      !!! note
-         Le Titre et la date de début sont obligatoires.
+      Le Titre et la date de début sont obligatoires.
 
 6. Cliquez sur **Suivant: Billeterie HelloAsso**.
 
@@ -91,9 +90,9 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
 
       ![Modèle compétition](img/create-competition/4b.png)
 
-      !!! tip Astuce
-         Vous pouvez aussi charger votre propre modèle de compétition en cliquant sur **Charger le modèle**.
-
 6. Cliquez sur **Créer**. Votre compétition de démonstration est créée et ouverte pour la configuration.
 
       ![Compétition créée](img/create-competition/5b.png)
+
+!!! tip Astuce
+   Vous pouvez aussi charger votre propre modèle de compétition en cliquant sur **Charger le modèle**.
