@@ -86,7 +86,8 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
 
       ![Nom compétition](img/create-competition/3b.png)
 
-5. Sélectionnez le modèle de compétition (facultatif).  
+5. Sélectionnez le modèle de compétition (facultatif).
+   Vous pouvez vous aider des filtres sur les tags et le nombre de joueurs pour vous aider à trouver votre modèle de compétition idéal. Vous pouvez aussi cliquer sur les modèles pour voir les détails de chaque modèle de compétition.
 
       ![Modèle compétition](img/create-competition/4b.png)
 
@@ -95,4 +96,4 @@ Sinon, il vous faudra un crédit pour créer une compétition depuis le site web
       ![Compétition créée](img/create-competition/5b.png)
 
 !!! tip Astuce
-   Vous pouvez aussi charger votre propre modèle de compétition en cliquant sur **Charger le modèle**.
+    Vous pouvez aussi charger votre propre modèle de compétition en cliquant sur **Importer un modèle**.

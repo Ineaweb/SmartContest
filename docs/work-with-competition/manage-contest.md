@@ -12,12 +12,31 @@ Vous verrez comment saisir un score, attribuer un terrain ou modifier la planifi
 
     ![Section Matchs](../img/work-with-competition/manage-contest/1.png)
 
-2. Utilisez la barre de recherche ainsi que le filtre d'état (En cours, A venir, En attente ou Terminée) pour trouver un match spécifique en saisissant des critères tels que le nom de l'équipe ou son numéro.
+2. Utilisez la barre de recherche ainsi que le filtre d'état (En cours, A venir ou Terminée) pour trouver un match spécifique en saisissant des critères tels que le nom de l'équipe ou son numéro.
 
     ![Barre de recherche](../img/work-with-competition/manage-contest/2.png)
 
 !!! tip Astuce
     Si vous utilisez les QR code durant votre compétition, vous pouvez scanner le QR code d'une équipe pour retrouver rapidement le match en cours de cette équipe.
+
+## Gérer la disponilité des terrains
+
+Il peut arriver que vous n'ayez pas assez de terrains pour accueillir tous les matchs prévus. Dans ce cas, vous pouvez gérer les matchs en attente.
+
+1. Accédez à la section "Matchs" dans le menu de gestion de votre compétition.
+
+    ![Section Matchs](../img/work-with-competition/manage-contest/1.png)
+
+2. Sur la droite de l'écran en face de la liste des matchs en cours, vous pouvez voir les matchs en attente.
+
+    ![Matchs en attente](../img/work-with-competition/manage-contest/23.png)
+
+Par default, SmartContest définit un ordre d'attente. Cependant, vous pouvez modifier cet ordre en cliquant sur ![icône monter](../img/work-with-competition/design-competition/36.png) et ![icône descendre](../img/work-with-competition/design-competition/37.png) pour faire monter ou descendre un match dans la liste d'attente.
+
+SmartContest, intègre un module estimant le temps d'attente pour les matchs en attente en fonction de la durée moyenne des matchs précédents ou dans le cas du premier match de la compétition, en fonction de la durée minimale et maximale définient dans les paramètres de votre compétition (cf. [Conception de la compétition](design-competition.md)).
+
+Lorsqu'au moins un terrain se libère, vous pouvez faire démarrer un match en attente en cliquant sur **Lancer les parties** en bas à droite.
+Vous pouvez aussi faire démarrer le match de votre choix en attente en cliquant sur ![icône lancer](../img/work-with-competition/manage-contest/25.png) en face du match que vous souhaitez faire démarrer. dans ce cas, les estimations d'attente pour les autres matchs en attente seront recalculées en fonction du match qui vient de démarrer.
 
 ## Saisir le score d'un match
 
