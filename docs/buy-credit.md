@@ -6,42 +6,46 @@
 
       ![Connexion](img/buy-credit/1.png)
 
-3. Allez dans **Mon Profil**.
+3. Allez dans **Mes organisations**.
 
-      ![Mon Profil](img/buy-credit/2.png)
+      ![Mon Profil](img/buy-credit/12.png)
 
-4. Recherchez la section **Crédits**.
+4. Cliquez sur **Voir les détails** de votre organisation (votre association ou club)
 
-      ![Section Crédits](img/buy-credit/3.png)
+      ![Mes organisations](img/buy-credit/13.png)
 
-5. Cliquez sur **Acheter des crédits**.
+5. Recherchez la section **Gestion des crédits**.
 
-      ![Acheter des crédits](img/buy-credit/4.png)
+      ![Section Crédits](img/buy-credit/14.png)
 
-6. Sélectionnez le nombre de crédits que vous souhaitez acheter.
+6. Cliquez sur **Acheter des crédits**.
 
-      ![Sélection crédits](img/buy-credit/5.png)
+      ![Acheter des crédits](img/buy-credit/15.png)
 
-7. Cliquez sur **Continuer vers les conditions générales**.
+7. Sélectionnez le nombre de crédits que vous souhaitez acheter.
+ 
+      ![Sélection crédits](img/buy-credit/16.png)
+
+8. Cliquez sur **Continuer vers les conditions générales**.
 
       ![Continuer conditions](img/buy-credit/6.png)
 
-8. Vous serez redirigé vers les conditions générales de vente de SmartContest. Lisez-les attentivement, puis cochez la case "J'ai lu et j'accepte les conditions générales de vente de SmartContest".
+9. Vous serez redirigé vers les conditions générales de vente de SmartContest. Lisez-les attentivement, puis cochez la case "J'ai lu et j'accepte les conditions générales de vente de SmartContest".
 
       ![Conditions générales](img/buy-credit/7.png)
 
-9. Cliquez sur **Continuer vers le paiement**.
+10. Cliquez sur **Continuer vers le paiement**.
 
       ![Continuer paiement](img/buy-credit/8.png)
 
-10. Vous serez redirigé vers la page de paiement. Choisissez votre méthode de paiement et suivez les instructions pour finaliser votre achat.
+11. Vous serez redirigé vers la page de paiement. Choisissez votre méthode de paiement et suivez les instructions pour finaliser votre achat.
 
       ![Page paiement](img/buy-credit/9.png)
 
-11. Une fois le paiement effectué, vos crédits seront ajoutés à votre compte SmartContest. Vous pouvez vérifier votre solde de crédits dans la section **Crédits** de votre profil.
+12. Une fois le paiement effectué, vos crédits seront ajoutés à votre compte SmartContest. Vous pouvez vérifier votre solde de crédits dans la section **Gestion des crédits** de votre profil.
 
-      ![Crédits ajoutés](img/buy-credit/10.png)
+      ![Crédits ajoutés](img/buy-credit/18.png)
 
-12. Vous pouvez consulter les factures de vos achats de crédits dans la section "Factures" de votre profil.
+13. Vous pouvez consulter les factures de vos achats de crédits dans la section **Gestion des factures** de votre profil.
 
-      ![Consulter factures](img/buy-credit/11.png)
+      ![Consulter factures](img/buy-credit/17.png)
