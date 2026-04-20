@@ -77,11 +77,13 @@ Si vous choisissez d'imprimer un lot de QR-codes, saisissez les numéro des QR-c
 !!! note
     Les QR-codes sont générés avec un numéro unique qui peut être associé à une équipe lors de son enregistrement. Cela permet aux équipes de suivre facilement leur progression dans la compétition en scannant leur QR-code avec leur smartphone.
 
-## Gérer l'affichage dynamique (affichage secondaire)
+## Gérer l'affichage dynamique
 
-SmartContest vous permet de diffuser un affichage dynamique (affichage secondaire) pour offrir une expérience immersive à vos participants en utilisant un écran dédié ou un projecteur.
+### Gérer l'affichage HDMI
 
-Accédez à la section **Affichage dynamique** en cliquant sur l'icône ![Affichage dynamique](../img/work-with-competition/manage-display/14.png).
+SmartContest vous permet de diffuser un affichage dynamique pour offrir une expérience immersive à vos participants en utilisant un écran dédié ou un projecteur connecté en HDMI.
+
+Accédez à la section **Affichage dynamique HDMI** en cliquant sur l'icône ![Affichage dynamique](../img/work-with-competition/manage-display/14.png).
 Une fenetre s'ouvre avec les différents éléments que vous pouvez afficher.
 
 Cochez la case **Afficher sur un écran secondaire** pour activer la diffusion de l'affichage dynamique.
@@ -162,3 +164,54 @@ Cliquez sur le bouton **Afficher les [matchs/parties/rencontres] en cours** pour
 2. Cliquez sur le bouton **Afficher les sponsors** pour afficher la liste des sponsors de votre compétition.
 
     ![Affichage des sponsors](../img/work-with-competition/manage-display/25.png)
+
+### Gérer l'affichage Web
+
+SmartContest vous permet aussi de diffuser un affichage dynamique pour offrir une expérience immersive à vos participants en utilisant un téléviseur connecté ou module branché sur votre télévision (Google Chromecast, Amazon FireTV, ...).
+
+Accédez à la section **Affichage dynamique web** en cliquant sur l'icône ![Affichage dynamique web](../img/work-with-competition/manage-display/26.png).
+Une fenetre s'ouvre avec les différents éléments que vous pouvez afficher.
+
+
+![Section Affichage dynamique web](../img/work-with-competition/manage-display/27.png)
+
+L'affichage dynamique se met à jour automatiquement en temps réel pour refléter les changements dans votre compétition, tels que les scores des matchs, les classements, les équipes, etc.
+Vous pouvez afficher :
+
+- Les équipes enregistrées
+- Les matchs en cours
+- Les classements
+
+Vous pouvez personnaliser l'affichage dynamique en configurant :
+
+- La vitesse de défilement des éléments affichés.
+
+    ![Vitesse de défilement](../img/work-with-competition/manage-display/28.png)
+
+- Le zoom de l'affichage.
+
+    ![Zoom de l'affichage](../img/work-with-competition/manage-display/29.png)
+
+
+### Afficher les équipes enregistrées
+
+Cochez la case **Equipes** pour afficher la liste des équipes déjà enregistrées dans votre compétition.
+
+![Affichage des équipes enregistrées](../img/work-with-competition/manage-display/32.png)
+
+
+### Afficher les matchs en cours
+
+Cochez la case **[Matchs/Parties/Rencontres] en cours** pour afficher la liste des matchs en cours dans votre compétition.
+
+![Affichage des matchs en cours](../img/work-with-competition/manage-display/33.png)
+
+### Afficher les classements
+
+Cochez la case **Classements** puis sélectionnez les classements que vous souhaitez afficher.
+
+![selection des classements](../img/work-with-competition/manage-display/34.png)
+
+Cliquez sur **Activer** ou **Mettre à jour** pour obtenir le lien web à utiliser sur votre téléviseur.
+
+![Affichage des classements](../img/work-with-competition/manage-display/31.png)
