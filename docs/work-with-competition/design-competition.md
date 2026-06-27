@@ -95,10 +95,12 @@ Voici la procédure pour créer ou modifier un modèle de rencontre :
 
 2. Remplissez les champs **Nom** et **Style de partie**.
 
-3. Cochez la case **Durée fixe ?** si vous souhaitez que la rencontre/partie/match ait une durée fixe. 
+3. Cochez la case **Durée fixe ?** si vous souhaitez que la rencontre/partie/match ait une durée fixe.
 
       - Si cette option est cochée, renseignez la **Durée de la partie**. 
       - Si cette option n'est pas cochée, renseignez la **Durée minimale de la partie** et la **Durée maximale de la partie**.
+
+4. Renseignez le nombre d'arbitres nécessaires pour arbitrer la rencontre/partie/match. Si vous ne souhaitez pas affecter d'arbitre à la rencontre/partie/match, renseignez 0.
 
 !!! info
       Le **Style de partie** détermine la façon dont les scores sont saisis et affichés dans l'application mobile SmartContest et au niveau de l'affichage dynamique.

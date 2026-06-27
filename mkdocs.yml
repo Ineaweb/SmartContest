@@ -55,6 +55,7 @@ nav:
       - work-with-competition/index.md
       - Configuration générale: work-with-competition/general-configuration.md
       - Gérer les aires de compétition: work-with-competition/manage-area.md
+      - Gérer les arbitres: work-with-competition/manage-referee.md
       - Gérer les participants: work-with-competition/manage-participant.md
       - Gérer les matchs: work-with-competition/manage-contest.md
       - Gérer les affichages: work-with-competition/manage-display.md

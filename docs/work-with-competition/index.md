@@ -7,7 +7,7 @@ Dans smartcontest, une compétition se déroule selon le flux suivant :
 ```mermaid
 flowchart TB
     A[1- Activation] --> B
-    B[2- Enregistrement des participants] --> C
+    B[2- Enregistrement des participants et des arbitres] --> C
     C[3- Création des zones de compétition] --> D
     D[4- Affectation des équipes] --> E
     subgraph sb1 [Gestion d'une phase]
@@ -29,10 +29,10 @@ Cette étape n'est requise que dans le cas d'une compétition de 24 heures.
 !!! warning Important
     L'activation doit obligatoirement se faire depuis l'application SmartContest connecté à internet la veille ou le jour de la compétition.
 
-## 2- Enregistrement des participants
+## 2- Enregistrement des participants et des arbitres
 
-Une fois votre compétition activée, vous pouvez commencer à enregistrer les participants.
-Pour plus de détails sur cette étape, consultez la section [Gérer les participants](manage-participant.md).
+Une fois votre compétition activée, vous pouvez commencer à enregistrer les participants et les arbitres.
+Pour plus de détails sur cette étape, consultez les sections [Gérer les participants](manage-participant.md) et [Gérer les arbitres](manage-referee.md).
 
 ## 3- Gestion des zones de compétition
 
