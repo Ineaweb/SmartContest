@@ -102,6 +102,8 @@ Voici la procédure pour créer ou modifier un modèle de rencontre :
 
 4. Renseignez le nombre d'arbitres nécessaires pour arbitrer la rencontre/partie/match. Si vous ne souhaitez pas affecter d'arbitre à la rencontre/partie/match, renseignez 0.
 
+5. Indiquez si la rencontre/partie/match exige un arbitrage exclusif. Si cette option est cochée, un arbitre ne pourra pas arbitrer plusieurs rencontres/parties/matchs en même temps.
+
 !!! info
       Le **Style de partie** détermine la façon dont les scores sont saisis et affichés dans l'application mobile SmartContest et au niveau de l'affichage dynamique.
 
